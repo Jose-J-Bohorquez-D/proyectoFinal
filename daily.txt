@@ -5,3 +5,12 @@
 5 deben entregar avances diarios
 6 se deben reportar los avances en el grupo y adjuntar cap del hash del commit
 
+paso a paso para la conexion con git
+1 git init   (para iniciar git en la ruta)
+2 git config --global user.name "Paco Rivera"
+3 git config --global user.email "paco_rivera@gmail.com"
+4 ssh-keygen -t ed25519 -C "paco_rivera@gmail.com"
+5 clip < ~/.ssh/id_ed25519.pub
+6 esa clave me la envian y la agrego a github para que puedan trabajar
+
+adjunto unas notas mias de git que espero y les sirva
