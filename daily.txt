@@ -14,3 +14,5 @@ paso a paso para la conexion con git
 6 esa clave me la envian y la agrego a github para que puedan trabajar
 
 adjunto unas notas mias de git que espero y les sirva
+
+luego pondre los comandos basicos
