@@ -8,8 +8,8 @@
 <a href="index.php?act=ingreso">Ingreso</a>
 </button>
 <button> 
-<a href="index.php?act=servicios">Servicios</a>
+<a href="index.php?act=listarUsuarios">Listar</a>
 </button>
 <button> 
-<a href="index.php?act=actualizarUsuario">actualizar</a>
+<a href="index.php?act=salir">Salir</a>
 </button>

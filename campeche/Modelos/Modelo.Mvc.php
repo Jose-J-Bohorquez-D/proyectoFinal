@@ -6,13 +6,16 @@
         public static function enlaces_paginas_mdl($enlaces_mdl)
         {
             if ($enlaces_mdl == "registro" ||
+                $enlaces_mdl == "editarUsu" ||
+                $enlaces_mdl == "salir" ||
+                $enlaces_mdl == "listarUsuarios" ||
                 $enlaces_mdl == "miPerfil" ||
                 $enlaces_mdl == "actualizarUsuario" ||
                 $enlaces_mdl == "ingreso" ) {
 
                 $ruta_pagina = "Vistas/Paginas/".$enlaces_mdl.".php";
 
-            }elseif ($enlaces_mdl == "index-inicio") {
+            }elseif ($enlaces_mdl == "index") {
                 
                 $ruta_pagina = "Vistas/Paginas/inicio.php";
 

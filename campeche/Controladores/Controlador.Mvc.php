@@ -15,7 +15,7 @@
             if (isset($_GET['act'])) {
                 $enlaces_ctlr = $_GET['act'];
             }else{
-                $enlaces_ctlr = "index-inicio";
+                $enlaces_ctlr = "index";
             }
             #var_dump($enlaces); #test
             $rta = MvcMdl::enlaces_paginas_mdl($enlaces_ctlr);
