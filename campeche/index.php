@@ -2,8 +2,10 @@
 
     require_once("Controladores/Controlador.Mvc.php");
 
-    $mvc=new Mvc; 
+    require_once("Modelos/Modelo.Mvc.php");
+
+    $mvc=new MvcCtlr; 
     
-    $mvc->llamando_plantilla();
+    $mvc->llamando_plantilla_ctlr();
 
 ?>
