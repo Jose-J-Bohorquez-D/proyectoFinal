@@ -23,6 +23,10 @@
                 
                 $ruta_pagina = "Vistas/Paginas/registro.php";
 
+            }elseif ($enlaces_mdl == "todoOkUp") {
+                
+                $ruta_pagina = "Vistas/Paginas/listarUsuarios.php";
+
             }else{
 
                 $ruta_pagina = "Vistas/Paginas/404.php";

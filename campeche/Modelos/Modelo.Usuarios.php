@@ -2,7 +2,68 @@
 require_once("Modelo.Conexion.php");
 class UsuariosMdl extends ConexionCampeche
 {
-    public static function actualizar_usuario_mdl($idEditUsuMdl)
+    public static function actualizar_usuario_mdl($datos_form_up_mdl)
+    {
+        try {
+            $sql = "UPDATE usuarios SET
+            tipo_doc = :tipo_doc,
+            num_doc = :num_doc,
+            nombre1 = :nombre1,
+            nombre2 = :nombre2,
+            apellido1 = :apellido1,
+            apellido2 = :apellido2,
+            fecha_nac = :fecha_nac,
+            correo = :correo,
+            telefono = :telefono,
+            direccion = :direccion,
+            ubicacion = :ubicacion,
+            usuario = :usuario,
+            pwd = :pwd,
+            rol = :rol,
+            estado = :estado,
+            fecha_actualiza = :fecha_actualiza 
+            WHERE id_usuario = :id_usuario_up";
+
+            $conexion = ConexionCampeche::conectar();
+            $stmt = $conexion->prepare($sql);
+            if ($stmt) {
+                $stmt->bindParam(':tipo_doc', $datos_form_up_mdl["tipo_documento"]);
+                $stmt->bindParam(':num_doc', $datos_form_up_mdl["numero_documento"]);
+                $stmt->bindParam(':nombre1', $datos_form_up_mdl["nombre1"]);
+                $stmt->bindParam(':nombre2', $datos_form_up_mdl["nombre2"]);
+                $stmt->bindParam(':apellido1', $datos_form_up_mdl["apellido1"]);
+                $stmt->bindParam(':apellido2', $datos_form_up_mdl["apellido2"]);
+                $stmt->bindParam(':fecha_nac', $datos_form_up_mdl["fecha_nac"]);
+                $stmt->bindParam(':correo', $datos_form_up_mdl["correo"]);
+                $stmt->bindParam(':telefono', $datos_form_up_mdl["telefono"]);
+                $stmt->bindParam(':direccion', $datos_form_up_mdl["direccion"]);
+                $stmt->bindParam(':ubicacion', $datos_form_up_mdl["ubicacion"]);
+                $stmt->bindParam(':usuario', $datos_form_up_mdl["usuario"]);
+                $stmt->bindParam(':pwd', $datos_form_up_mdl["contrasena"]);
+                $stmt->bindParam(':rol', $datos_form_up_mdl["rol"]);
+                $est = 1; // Definimos el valor por defecto del estado como 1 para que sea activo a menos de que se cambie
+                $stmt->bindParam(':estado', $est);
+                date_default_timezone_set('America/Bogota');   
+                $fecha_actualiza = date("Y-m-d H:i:s");
+                $stmt->bindParam(':fecha_actualiza', $fecha_actualiza);
+                $stmt->bindParam(':id_usuario_up', $datos_form_up_mdl["id_usr"]);
+                if ($stmt->execute()) {
+                    return "todoOkUp";
+                } else {
+                    echo "Error al insertar datos: " . $stmt->errorInfo()[2];
+                }
+
+                $stmt->closeCursor();
+                
+            } else {
+                echo "Error en la preparación de la consulta: " . $conexion->errorInfo()[2];
+            }
+        } catch (PDOException $e) {
+            echo "Error: " . $e->getMessage();
+        }
+    }
+
+    public static function editar_usuario_mdl($idEditUsuMdl)
     {
         try {
             $sql = "SELECT * FROM usuarios WHERE id_usuario = :id_usuario";

@@ -6,6 +6,25 @@ if (!$_SESSION['usuCampeche']) {
 }
 ?>
 
+
+
+    <?php 
+        if ($_GET['act']) {
+            if ($_GET['act'] == "todoOkUp") {
+echo '
+<script type="text/javascript">
+    Swal.fire({
+        title: "Genial!",
+        html: "Usuario Actualizado Con Éxito!<br>Presiona Ok para continuar!",
+        icon: "success",
+    });
+</script>
+
+';
+            }
+        }
+    ?>
+
 <div class="container-fluid">
 	<h1 class="text-center">Pagina De Usuarios</h1>
 	<div class="table-responsive">

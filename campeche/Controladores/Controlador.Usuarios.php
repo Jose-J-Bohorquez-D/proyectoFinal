@@ -4,15 +4,47 @@ class UsuariosCtlr
 {
     public function actualizar_usuario_ctlr()
     {
+        if (isset($_POST['tipo_documento_up'])) {
+            if (!empty($_POST['tipo_documento_up'])) 
+            {
+            $datos_form_up_ctlr = array(
+                "id_usr" => $_POST["id_usuario_up"],
+                "tipo_documento" => $_POST["tipo_documento_up"],
+                "numero_documento" => $_POST["numero_documento_up"],
+                "nombre1" => $_POST["nombre1_up"],
+                "nombre2" => $_POST["nombre2_up"],
+                "apellido1" => $_POST["apellido1_up"],
+                "apellido2" => $_POST["apellido2_up"],
+                "fecha_nac" => $_POST["fecha_nac_up"],
+                "correo" => $_POST["correo_up"],
+                "telefono" => $_POST["telefono_up"],
+                "direccion" => $_POST["direccion_up"],
+                "ubicacion" => $_POST["ubicacion_up"],
+                "usuario" => $_POST["usuario_up"],
+                "contrasena" => $_POST["pwd_up"],
+                "rol" => $_POST["rol_up"]
+            );
+                $rta = UsuariosMdl::actualizar_usuario_mdl($datos_form_up_ctlr);
+                if ($rta == "todoOkUp") {
+                    header("location:index.php?act=todoOkUp");
+                }else{
+                }
+            }
+        }
+    }
+
+    public function editar_usuario_ctlr()
+    {
         if (isset($_GET['idEditUsu'])) {
             if (!empty($_GET['idEditUsu'])) {
                 $idEditUsuCtlr = $_GET['idEditUsu'];
-                $rta=UsuariosMdl::actualizar_usuario_mdl($idEditUsuCtlr);
+                $rta=UsuariosMdl::editar_usuario_mdl($idEditUsuCtlr);
                 #var_dump($rta);
                 echo '
+    <input type="hidden" value="'.$rta["id_usuario"].'" name="id_usuario_up">
     <label for="tipo_documento">Tipo de Documento:</label>
     <select value="tipo_documento" name="tipo_documento_up" required>
-        <option value="" class="text-center">'.$rta["tipo_doc"].' (es su documento actual)</option>
+        <option value="'.$rta["tipo_doc"].'" class="text-center">'.$rta["tipo_doc"].' (es su documento actual)</option>
         <option value="TI">TI</option>
         <option value="CC">CC</option>
         <option value="CE">CE</option>
@@ -52,7 +84,14 @@ class UsuariosCtlr
     <input type="text" value="'.$rta["usuario"].'" name="usuario_up" required><br>
 
     <label for="contrasena">Contraseña:</label>
-    <input type="password" value="'.$rta["pwd"].'" name="pwd_up" required><br>
+    <input type="text" value="'.$rta["pwd"].'" name="pwd_up" required><br>
+
+    <label for="rol">Rol:</label>
+        <select value="rol" name="rol_up" required>
+            <option value="'.$rta["rol"].'">'.$rta["rol"].' (Este es su rol actual)</option>
+            <option value="2">Admin</option>
+            <option value="3">Consumidor</option>
+        </select><br>
                 ';
             }
         }
@@ -66,7 +105,7 @@ class UsuariosCtlr
             echo '
                 <tr>
                   <td><a href="index.php?act=editarUsu&idEditUsu='.$item["id_usuario"].'" class="btn btn-warning">Editar</a></td>
-                  <td><a href="" class="btn btn-danger">Eliminar</a></td>
+                  <td><a href="index.php?act=editarUsu&idElimUsu='.$item["id_usuario"].'" class="btn btn-danger">Eliminar</a></td>
                   <td>'.$item["tipo_doc"].'</td>
                   <td>'.$item["num_doc"].'</td>
                   <td>'.$item["nombre1"].'</td>
@@ -135,33 +174,28 @@ class UsuariosCtlr
         }
     }
 
+
+
+
+
+
+
     public function registrar_usuario_ctlr()
     {
         function sanitizeInput($input) 
         {
-            // Eliminar etiquetas HTML y espacios en blanco al principio y al final
             $input = trim(strip_tags($input));
-
-            // Reemplazar caracteres especiales con entidades HTML
             $input = htmlspecialchars($input, ENT_QUOTES, 'UTF-8');
-
             return $input;
         }
-
         function validateText($input) {
-            // Utilizar una expresión regular para validar que solo contiene caracteres a-z y A-Z
             return preg_match('/^[a-zA-Z]+$/', $input);
         }
-
         function validateNumber($number) {
-            // Utilizar una expresión regular para validar que solo contiene números
             return preg_match('/^[0-9]+$/', $number);
         }
-
         if ($_SERVER["REQUEST_METHOD"] == "POST") {
-            $errores = array(); // Array para almacenar los errores
-
-            // Crear un array asociativo para almacenar los datos del formulario
+            $errores = array();
             $datos_form_reg_ctlr = array(
                 "tipo_documento" => $_POST["tipo_documento_reg"],
                 "numero_documento" => $_POST["numero_documento_reg"],
@@ -178,28 +212,19 @@ class UsuariosCtlr
                 "contrasena" => $_POST["pwd_reg"],
                 "rol" => $_POST["rol_reg"]
             );
-
-            // Sanitizar todos los campos del formulario
             foreach ($datos_form_reg_ctlr as $campo => $valor) 
             {
                 $datos_form_reg_ctlr[$campo] = sanitizeInput($valor);
             }
-
-            // Validar el campo de número de documento
             if (!validateNumber($datos_form_reg_ctlr["numero_documento"])) 
             {
                 $errores[] = "El campo de número de documento debe contener solo números.";
             }
-
-            // Validar el campo de teléfono
             if (!validateNumber($datos_form_reg_ctlr["telefono"])) 
             {
                 $errores[] = "El campo de teléfono debe contener solo números.";
             }
-
-            // Validar campos de texto
             $camposTexto = array("nombre1", "nombre2", "apellido1", "apellido2", "direccion", "ubicacion", "usuario", "contrasena");
-
             foreach ($camposTexto as $campo) 
             {
                 if (!validateText($datos_form_reg_ctlr[$campo])) 
@@ -207,13 +232,10 @@ class UsuariosCtlr
                     $errores[] = "El campo $campo contiene caracteres no permitidos.";
                 }
             }
-
-            // Validar que todos los campos requeridos estén llenos
             $camposRequeridos = array(
                 "tipo_documento", "numero_documento", "nombre1", "apellido1", "fecha_nac", "correo", "telefono",
                 "direccion", "ubicacion", "usuario", "contrasena", "rol"
             );
-
             foreach ($camposRequeridos as $campo) 
             {
                 if (empty($datos_form_reg_ctlr[$campo])) 
@@ -221,20 +243,15 @@ class UsuariosCtlr
                     $errores[] = "El campo $campo es requerido y debe ser completado.";
                 }
             }
-
-            // Si no hay errores, los datos son válidos y se pueden procesar o almacenar
             if (empty($errores)) 
             {
-                #echo "Datos válidos. Procesar o almacenar los datos aquí.";
                 $rta = UsuariosMdl::registrar_usuario_mdl($datos_form_reg_ctlr);
-
                 if ($rta == "todoOkReg") {
                     header("location:index.php?act=todoOkReg");
                 }else{
                     
                 }
             } else {
-                // Mostrar los errores
                 echo "Se encontraron los siguientes errores:<br>";
                 foreach ($errores as $error) {
                     echo "$error<br>";
