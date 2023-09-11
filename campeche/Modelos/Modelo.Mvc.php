@@ -6,6 +6,7 @@
         public static function enlaces_paginas_mdl($enlaces_mdl)
         {
             if ($enlaces_mdl == "registro" ||
+            $enlaces_mdl == "actualizarUsuario" ||
                 $enlaces_mdl == "inicio" ||
                 $enlaces_mdl == "ingreso" ) {
 
