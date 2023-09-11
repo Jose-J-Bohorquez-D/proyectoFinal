@@ -109,5 +109,48 @@ class UsuariosCtlr
             }
         }
     }
+
+    public function ingreso_usuario_ctlr()
+    {
+        if ($_SERVER["REQUEST_METHOD"] == "POST") {
+            $datos_form_ing_ctlr = array(
+                "correo" => $_POST["correo_ing"],
+                "contrasena" => $_POST["contrasena_ing"]
+            );
+
+            $rta = UsuariosMdl::ingreso_usuario_mdl($datos_form_ing_ctlr);
+            #var_dump($rta[8]);
+            if ($rta == "errorIng") {
+                echo '
+                    <script type="text/javascript">
+                        Swal.fire({
+                            title: "Error!",
+                            html: "Usuario y contraseña incorrectos.<br>Verifica e intenta nuevamente.<br>Si la falla persiste, comunícate con el administrador.",
+                            icon: "error",
+                        });
+                    </script>
+                ';
+            }else{
+                if($rta["correo"] == $_POST["correo_ing"] && $rta["pwd"] == $_POST["contrasena_ing"]) {
+                    echo '
+                        <script type="text/javascript">
+                            Swal.fire({
+                                title: "Perfecto!",
+                                text: "Usuario y contrasena Correctos!",
+                                icon: "success",
+                            }).then(function() {
+                                // Redirige al usuario a la página deseada
+                                window.location.href = "index.php?act=miPerfil"; 
+                            });
+                        </script>
+                    ';
+                }
+            }
+
+        } else {
+            #Manejar el caso en el que alguien accede directamente a esta página sin enviar un formulario.
+            #echo "Acceso no autorizado.";
+        }
+    }
 }
 ?>
