@@ -9,3 +9,6 @@
       <button> 
         <a href="index.php?act=servicios">Servicios</a>
       </button>
+      <button> 
+        <a href="index.php?act=actualizarUsuario">actualizar</a>
+      </button>
