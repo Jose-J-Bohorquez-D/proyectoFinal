@@ -61,5 +61,31 @@ class UsuariosMdl extends ConexionCampeche
             echo "Error: " . $e->getMessage();
         }
     }
+
+   public static function ingreso_usuario_mdl($datos_form_ing_mdl)
+    {
+        try {
+            $correo = $datos_form_ing_mdl["correo"];
+            $contrasena = $datos_form_ing_mdl["contrasena"];
+            $sql = "SELECT * FROM usuarios WHERE correo = :correo AND pwd = :contrasena";
+            $conexion = ConexionCampeche::conectar();
+            $stmt = $conexion->prepare($sql); 
+            $stmt->bindParam(':correo', $correo); 
+            $stmt->bindParam(':contrasena', $contrasena); 
+            $stmt->execute();
+            if ($stmt->rowCount() > 0) { 
+                return $stmt->fetch();
+                #return "ingOk";
+            } else {
+                return "errorIng";#pasa por que no existe el usuario
+            }
+            $stmt->closeCursor();
+        } catch (PDOException $e) {
+            echo "Error: " . $e->getMessage();
+        }
+
+    }
+
+
 }
 ?>
