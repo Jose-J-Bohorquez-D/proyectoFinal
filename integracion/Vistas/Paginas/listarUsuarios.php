@@ -11,16 +11,30 @@ if (!$_SESSION['usuCampeche']) {
     <?php 
         if ($_GET['act']) {
             if ($_GET['act'] == "todoOkUp") {
-echo '
-<script type="text/javascript">
-    Swal.fire({
-        title: "Genial!",
-        html: "Usuario Actualizado Con Éxito!<br>Presiona Ok para continuar!",
-        icon: "success",
-    });
-</script>
+			echo '
+			<script type="text/javascript">
+			    Swal.fire({
+			        title: "Genial!",
+			        html: "Usuario Actualizado Con Éxito!<br>Presiona Ok para continuar!",
+			        icon: "success",
+			    });
+			</script>
 
-';
+			';
+            }
+        }
+        if ($_GET['act']) {
+            if ($_GET['rtaDel'] == "todoOkDel") {
+			echo '
+			<script type="text/javascript">
+			    Swal.fire({
+			        title: "Genial!",
+			        html: "Datos Eliminados Con Éxito!<br>Presiona Ok para continuar!",
+			        icon: "success",
+			    });
+			</script>
+
+			';
             }
         }
     ?>
@@ -49,7 +63,6 @@ echo '
 	      <th scope="col">ESTADO</th>
 	      <th scope="col">FECHA CREACION</th>
 	      <th scope="col">FECHA ACTUALIZACION</th>
-	      <th scope="col">FECHA ELIMINACION</th>
 	    </tr>
 	  </thead>
 	  <tbody>
@@ -59,5 +72,7 @@ echo '
 		?>
 	  </tbody>
 	</table>
+
 </div>
 </div>
+<br><br>

@@ -8,6 +8,10 @@
             if ($enlaces_mdl == "registro" ||
                 $enlaces_mdl == "editarUsu" ||
                 $enlaces_mdl == "salir" ||
+                $enlaces_mdl == "elimUsu" ||
+                $enlaces_mdl == "somos" ||
+                $enlaces_mdl == "mi_perfil" ||
+                $enlaces_mdl == "tu_pedido" ||
                 $enlaces_mdl == "listarUsuarios" ||
                 $enlaces_mdl == "miPerfil" ||
                 $enlaces_mdl == "actualizarUsuario" ||

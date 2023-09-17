@@ -1,15 +1,5 @@
-<!-- aca debe ir el contenido de la pagina de inicio -->
-<h1>pagina de inicio</h1>
-
-<button> 
-<a href="index.php?act=registro">Registro</a>
-</button>
-<button> 
-<a href="index.php?act=ingreso">Ingreso</a>
-</button>
-<button> 
-<a href="index.php?act=listarUsuarios">Listar</a>
-</button>
-<button> 
-<a href="index.php?act=salir">Salir</a>
-</button>
+<div class="container-fluid">
+  <?php require_once("Vistas/Modulos/galeria.php") ?>
+  <?php require_once("Vistas/Modulos/banner.php") ?>
+  <?php require_once("Vistas/Modulos/dato_curioso_form_reg.php") ?>
+</div>

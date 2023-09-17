@@ -2,6 +2,38 @@
 require_once("Modelo.Conexion.php");
 class UsuariosMdl extends ConexionCampeche
 {
+
+    public static function eliminar_usuario_mdl($idElimUsuMdl)
+    {
+        try {
+            $sql = "UPDATE usuarios SET estado = :estado,fecha_elimina = :fecha_elimina 
+            WHERE id_usuario = :idElimUsubd";
+
+            $conexion = ConexionCampeche::conectar();
+            $stmt = $conexion->prepare($sql);
+            if ($stmt) {
+                $est = 0; // Definimos el valor por defecto del estado como 1 para que sea activo a menos de que se cambie
+                $stmt->bindParam(':estado', $est);
+                date_default_timezone_set('America/Bogota');   
+                $fecha_elimina = date("Y-m-d H:i:s");
+                $stmt->bindParam(':fecha_elimina', $fecha_elimina);
+                $stmt->bindParam(':idElimUsubd', $idElimUsuMdl);
+                if ($stmt->execute()) {
+                    return "todoOkDel";
+                } else {
+                    echo "Error al eliminar datos: " . $stmt->errorInfo()[2];
+                }
+
+                $stmt->closeCursor();
+                
+            } else {
+                echo "Error en la preparación de la consulta Del: " . $conexion->errorInfo()[2];
+            }
+        } catch (PDOException $e) {
+            echo "Error: " . $e->getMessage();
+        }
+    }
+
     public static function actualizar_usuario_mdl($datos_form_up_mdl)
     {
         try {
@@ -85,7 +117,7 @@ class UsuariosMdl extends ConexionCampeche
     public static function listar_usuarios_mdl()
     {
         try {
-            $sql = "SELECT * FROM usuarios";
+            $sql = "SELECT * FROM usuarios WHERE estado = 1";
             $conexion = ConexionCampeche::conectar();
             $stmt = $conexion->prepare($sql);
             $stmt->execute();
