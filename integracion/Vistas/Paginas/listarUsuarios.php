@@ -23,7 +23,7 @@ if (!$_SESSION['usuCampeche']) {
 			';
             }
         }
-        if ($_GET['act']) {
+        if (isset($_GET['rtaDel'])) {
             if ($_GET['rtaDel'] == "todoOkDel") {
 			echo '
 			<script type="text/javascript">
