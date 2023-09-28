@@ -5,7 +5,9 @@
     {
         public static function enlaces_paginas_mdl($enlaces_mdl)
         {
-            if ($enlaces_mdl == "registro" ||
+            if ($enlaces_mdl == "pasarela" ||
+                $enlaces_mdl == "compras" ||
+                $enlaces_mdl == "registro" ||
                 $enlaces_mdl == "editarUsu" ||
                 $enlaces_mdl == "salir" ||
                 $enlaces_mdl == "elimUsu" ||
