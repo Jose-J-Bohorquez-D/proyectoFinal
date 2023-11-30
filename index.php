@@ -1,13 +1,14 @@
 <?php
-
-    require_once("Controladores/Controlador.Mvc.php");
-    require_once("Controladores/Controlador.Usuarios.php");
-
-    require_once("Modelos/Modelo.Mvc.php");
-    require_once("Modelos/Modelo.Usuarios.php");
-
-    $mvc=new MvcCtlr; 
-    
-    $mvc->llamando_plantilla_ctlr();
-
+    #require_once "models/DataBase.php";
+    if (!isset($_REQUEST['c'])) {
+        require_once "Controladores/Controlador.Landing.php";
+        $controller = new Landing;
+        $controller->main();
+    } else {
+        $controller = $_REQUEST['c'];
+        require_once "Controladores/Controlador." . $controller . ".php";
+        $controller = new $controller;
+        $action = isset($_REQUEST['a']) ? $_REQUEST['a'] : 'main';
+        call_user_func(array($controller, $action));
+    }
 ?>
