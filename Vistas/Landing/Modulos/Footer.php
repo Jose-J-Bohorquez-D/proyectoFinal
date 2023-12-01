@@ -1,6 +1,5 @@
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous">
-</script>
-</body>
-
-</html>
+<footer class="footer" style="background-color: darkseagreen; font-family: gladsome morning; letter-spacing: 2px;font-size: 1.2rem; color: darkslategray; font-weight: 500;">
+    <p>Contáctanos</p>
+    <p>Bogotá/Colombia</p>
+    <p>Correo: preguntas@campeche.com</p>
+</footer>

@@ -1,7 +1,5 @@
 <div class="container-fluid">
-    <div class="row">
-        <div class="col">
-            <h1 class="text-center">pagina de inicio campeche en el front</h1>
-        </div>
-    </div>
+  <?php require_once("Vistas/Landing/Modulos/galeria.php") ?>
+  <?php require_once("Vistas/Landing/Modulos/banner.php") ?>
+  <?php require_once("Vistas/Landing/Modulos/dato_curioso_form_reg.php") ?>
 </div>
