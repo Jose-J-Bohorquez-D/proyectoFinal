@@ -10,5 +10,9 @@
         $controller = new $controller;
         $action = isset($_REQUEST['a']) ? $_REQUEST['a'] : 'main';
         call_user_func(array($controller, $action));
+  
     }
+
+#se verifica el ruteo y esta bien, se verifica consola en navegador y todo ok
+
 ?>
