@@ -1,0 +1,15 @@
+D:\ejercicios\38_notas_materia\bin\Debug\net7.0\38_notas_materia.exe
+D:\ejercicios\38_notas_materia\bin\Debug\net7.0\38_notas_materia.deps.json
+D:\ejercicios\38_notas_materia\bin\Debug\net7.0\38_notas_materia.runtimeconfig.json
+D:\ejercicios\38_notas_materia\bin\Debug\net7.0\38_notas_materia.dll
+D:\ejercicios\38_notas_materia\bin\Debug\net7.0\38_notas_materia.pdb
+D:\ejercicios\38_notas_materia\obj\Debug\net7.0\38_notas_materia.csproj.AssemblyReference.cache
+D:\ejercicios\38_notas_materia\obj\Debug\net7.0\38_notas_materia.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejercicios\38_notas_materia\obj\Debug\net7.0\38_notas_materia.AssemblyInfoInputs.cache
+D:\ejercicios\38_notas_materia\obj\Debug\net7.0\38_notas_materia.AssemblyInfo.cs
+D:\ejercicios\38_notas_materia\obj\Debug\net7.0\38_notas_materia.csproj.CoreCompileInputs.cache
+D:\ejercicios\38_notas_materia\obj\Debug\net7.0\38_notas_materia.dll
+D:\ejercicios\38_notas_materia\obj\Debug\net7.0\refint\38_notas_materia.dll
+D:\ejercicios\38_notas_materia\obj\Debug\net7.0\38_notas_materia.pdb
+D:\ejercicios\38_notas_materia\obj\Debug\net7.0\38_notas_materia.genruntimeconfig.cache
+D:\ejercicios\38_notas_materia\obj\Debug\net7.0\ref\38_notas_materia.dll

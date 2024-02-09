@@ -1,0 +1,15 @@
+E:\ejercicios\19_total_a_pagar\obj\Debug\net6.0\19_total_a_pagar.csproj.AssemblyReference.cache
+E:\ejercicios\19_total_a_pagar\obj\Debug\net6.0\19_total_a_pagar.GeneratedMSBuildEditorConfig.editorconfig
+E:\ejercicios\19_total_a_pagar\obj\Debug\net6.0\19_total_a_pagar.AssemblyInfoInputs.cache
+E:\ejercicios\19_total_a_pagar\obj\Debug\net6.0\19_total_a_pagar.AssemblyInfo.cs
+E:\ejercicios\19_total_a_pagar\obj\Debug\net6.0\19_total_a_pagar.csproj.CoreCompileInputs.cache
+E:\ejercicios\19_total_a_pagar\bin\Debug\net6.0\19_total_a_pagar.exe
+E:\ejercicios\19_total_a_pagar\bin\Debug\net6.0\19_total_a_pagar.deps.json
+E:\ejercicios\19_total_a_pagar\bin\Debug\net6.0\19_total_a_pagar.runtimeconfig.json
+E:\ejercicios\19_total_a_pagar\bin\Debug\net6.0\19_total_a_pagar.dll
+E:\ejercicios\19_total_a_pagar\bin\Debug\net6.0\ref\19_total_a_pagar.dll
+E:\ejercicios\19_total_a_pagar\bin\Debug\net6.0\19_total_a_pagar.pdb
+E:\ejercicios\19_total_a_pagar\obj\Debug\net6.0\19_total_a_pagar.dll
+E:\ejercicios\19_total_a_pagar\obj\Debug\net6.0\ref\19_total_a_pagar.dll
+E:\ejercicios\19_total_a_pagar\obj\Debug\net6.0\19_total_a_pagar.pdb
+E:\ejercicios\19_total_a_pagar\obj\Debug\net6.0\19_total_a_pagar.genruntimeconfig.cache

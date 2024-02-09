@@ -1,0 +1,15 @@
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\bin\Debug\net7.0\12_numero_positivo.exe
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\bin\Debug\net7.0\12_numero_positivo.deps.json
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\bin\Debug\net7.0\12_numero_positivo.runtimeconfig.json
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\bin\Debug\net7.0\12_numero_positivo.dll
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\bin\Debug\net7.0\12_numero_positivo.pdb
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\obj\Debug\net7.0\12_numero_positivo.csproj.AssemblyReference.cache
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\obj\Debug\net7.0\12_numero_positivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\obj\Debug\net7.0\12_numero_positivo.AssemblyInfoInputs.cache
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\obj\Debug\net7.0\12_numero_positivo.AssemblyInfo.cs
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\obj\Debug\net7.0\12_numero_positivo.csproj.CoreCompileInputs.cache
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\obj\Debug\net7.0\12_numero_positivo.dll
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\obj\Debug\net7.0\refint\12_numero_positivo.dll
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\obj\Debug\net7.0\12_numero_positivo.pdb
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\obj\Debug\net7.0\12_numero_positivo.genruntimeconfig.cache
+C:\Users\POS\Desktop\ejercicios\12_numero_positivo\obj\Debug\net7.0\ref\12_numero_positivo.dll

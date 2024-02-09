@@ -1,0 +1,15 @@
+D:\ejercicios\36_tabla\bin\Debug\net7.0\36_tabla.exe
+D:\ejercicios\36_tabla\bin\Debug\net7.0\36_tabla.deps.json
+D:\ejercicios\36_tabla\bin\Debug\net7.0\36_tabla.runtimeconfig.json
+D:\ejercicios\36_tabla\bin\Debug\net7.0\36_tabla.dll
+D:\ejercicios\36_tabla\bin\Debug\net7.0\36_tabla.pdb
+D:\ejercicios\36_tabla\obj\Debug\net7.0\36_tabla.csproj.AssemblyReference.cache
+D:\ejercicios\36_tabla\obj\Debug\net7.0\36_tabla.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejercicios\36_tabla\obj\Debug\net7.0\36_tabla.AssemblyInfoInputs.cache
+D:\ejercicios\36_tabla\obj\Debug\net7.0\36_tabla.AssemblyInfo.cs
+D:\ejercicios\36_tabla\obj\Debug\net7.0\36_tabla.csproj.CoreCompileInputs.cache
+D:\ejercicios\36_tabla\obj\Debug\net7.0\36_tabla.dll
+D:\ejercicios\36_tabla\obj\Debug\net7.0\refint\36_tabla.dll
+D:\ejercicios\36_tabla\obj\Debug\net7.0\36_tabla.pdb
+D:\ejercicios\36_tabla\obj\Debug\net7.0\36_tabla.genruntimeconfig.cache
+D:\ejercicios\36_tabla\obj\Debug\net7.0\ref\36_tabla.dll

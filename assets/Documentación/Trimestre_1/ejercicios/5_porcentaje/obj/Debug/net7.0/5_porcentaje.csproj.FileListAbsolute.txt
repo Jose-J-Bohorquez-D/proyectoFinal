@@ -1,0 +1,15 @@
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\bin\Debug\net7.0\5_porcentaje.exe
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\bin\Debug\net7.0\5_porcentaje.deps.json
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\bin\Debug\net7.0\5_porcentaje.runtimeconfig.json
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\bin\Debug\net7.0\5_porcentaje.dll
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\bin\Debug\net7.0\5_porcentaje.pdb
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\obj\Debug\net7.0\5_porcentaje.csproj.AssemblyReference.cache
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\obj\Debug\net7.0\5_porcentaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\obj\Debug\net7.0\5_porcentaje.AssemblyInfoInputs.cache
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\obj\Debug\net7.0\5_porcentaje.AssemblyInfo.cs
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\obj\Debug\net7.0\5_porcentaje.csproj.CoreCompileInputs.cache
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\obj\Debug\net7.0\5_porcentaje.dll
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\obj\Debug\net7.0\refint\5_porcentaje.dll
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\obj\Debug\net7.0\5_porcentaje.pdb
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\obj\Debug\net7.0\5_porcentaje.genruntimeconfig.cache
+C:\Users\POS\Desktop\ejercicios\5_porcentaje\obj\Debug\net7.0\ref\5_porcentaje.dll

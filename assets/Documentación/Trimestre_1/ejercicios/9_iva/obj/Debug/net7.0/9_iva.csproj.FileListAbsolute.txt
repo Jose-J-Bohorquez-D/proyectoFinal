@@ -1,0 +1,15 @@
+C:\Users\POS\Desktop\ejercicios\9_iva\bin\Debug\net7.0\9_iva.exe
+C:\Users\POS\Desktop\ejercicios\9_iva\bin\Debug\net7.0\9_iva.deps.json
+C:\Users\POS\Desktop\ejercicios\9_iva\bin\Debug\net7.0\9_iva.runtimeconfig.json
+C:\Users\POS\Desktop\ejercicios\9_iva\bin\Debug\net7.0\9_iva.dll
+C:\Users\POS\Desktop\ejercicios\9_iva\bin\Debug\net7.0\9_iva.pdb
+C:\Users\POS\Desktop\ejercicios\9_iva\obj\Debug\net7.0\9_iva.csproj.AssemblyReference.cache
+C:\Users\POS\Desktop\ejercicios\9_iva\obj\Debug\net7.0\9_iva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POS\Desktop\ejercicios\9_iva\obj\Debug\net7.0\9_iva.AssemblyInfoInputs.cache
+C:\Users\POS\Desktop\ejercicios\9_iva\obj\Debug\net7.0\9_iva.AssemblyInfo.cs
+C:\Users\POS\Desktop\ejercicios\9_iva\obj\Debug\net7.0\9_iva.csproj.CoreCompileInputs.cache
+C:\Users\POS\Desktop\ejercicios\9_iva\obj\Debug\net7.0\9_iva.dll
+C:\Users\POS\Desktop\ejercicios\9_iva\obj\Debug\net7.0\refint\9_iva.dll
+C:\Users\POS\Desktop\ejercicios\9_iva\obj\Debug\net7.0\9_iva.pdb
+C:\Users\POS\Desktop\ejercicios\9_iva\obj\Debug\net7.0\9_iva.genruntimeconfig.cache
+C:\Users\POS\Desktop\ejercicios\9_iva\obj\Debug\net7.0\ref\9_iva.dll

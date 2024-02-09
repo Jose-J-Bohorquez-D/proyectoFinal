@@ -1,0 +1,15 @@
+C:\Users\POS\Desktop\ejercicios\multiplicacion\bin\Debug\net7.0\multiplicacion.exe
+C:\Users\POS\Desktop\ejercicios\multiplicacion\bin\Debug\net7.0\multiplicacion.deps.json
+C:\Users\POS\Desktop\ejercicios\multiplicacion\bin\Debug\net7.0\multiplicacion.runtimeconfig.json
+C:\Users\POS\Desktop\ejercicios\multiplicacion\bin\Debug\net7.0\multiplicacion.dll
+C:\Users\POS\Desktop\ejercicios\multiplicacion\bin\Debug\net7.0\multiplicacion.pdb
+C:\Users\POS\Desktop\ejercicios\multiplicacion\obj\Debug\net7.0\multiplicacion.csproj.AssemblyReference.cache
+C:\Users\POS\Desktop\ejercicios\multiplicacion\obj\Debug\net7.0\multiplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POS\Desktop\ejercicios\multiplicacion\obj\Debug\net7.0\multiplicacion.AssemblyInfoInputs.cache
+C:\Users\POS\Desktop\ejercicios\multiplicacion\obj\Debug\net7.0\multiplicacion.AssemblyInfo.cs
+C:\Users\POS\Desktop\ejercicios\multiplicacion\obj\Debug\net7.0\multiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\POS\Desktop\ejercicios\multiplicacion\obj\Debug\net7.0\multiplicacion.dll
+C:\Users\POS\Desktop\ejercicios\multiplicacion\obj\Debug\net7.0\refint\multiplicacion.dll
+C:\Users\POS\Desktop\ejercicios\multiplicacion\obj\Debug\net7.0\multiplicacion.pdb
+C:\Users\POS\Desktop\ejercicios\multiplicacion\obj\Debug\net7.0\multiplicacion.genruntimeconfig.cache
+C:\Users\POS\Desktop\ejercicios\multiplicacion\obj\Debug\net7.0\ref\multiplicacion.dll

@@ -1,0 +1,15 @@
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\bin\Debug\net7.0\7_cuadrado.exe
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\bin\Debug\net7.0\7_cuadrado.deps.json
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\bin\Debug\net7.0\7_cuadrado.runtimeconfig.json
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\bin\Debug\net7.0\7_cuadrado.dll
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\bin\Debug\net7.0\7_cuadrado.pdb
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\obj\Debug\net7.0\7_cuadrado.csproj.AssemblyReference.cache
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\obj\Debug\net7.0\7_cuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\obj\Debug\net7.0\7_cuadrado.AssemblyInfoInputs.cache
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\obj\Debug\net7.0\7_cuadrado.AssemblyInfo.cs
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\obj\Debug\net7.0\7_cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\obj\Debug\net7.0\7_cuadrado.dll
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\obj\Debug\net7.0\refint\7_cuadrado.dll
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\obj\Debug\net7.0\7_cuadrado.pdb
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\obj\Debug\net7.0\7_cuadrado.genruntimeconfig.cache
+C:\Users\POS\Desktop\ejercicios\7_cuadrado\obj\Debug\net7.0\ref\7_cuadrado.dll

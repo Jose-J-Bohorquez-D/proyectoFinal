@@ -1,0 +1,15 @@
+D:\ejercicios\36_tabla_de_multiplicar\bin\Debug\net7.0\36_tabla_de_multiplicar.exe
+D:\ejercicios\36_tabla_de_multiplicar\bin\Debug\net7.0\36_tabla_de_multiplicar.deps.json
+D:\ejercicios\36_tabla_de_multiplicar\bin\Debug\net7.0\36_tabla_de_multiplicar.runtimeconfig.json
+D:\ejercicios\36_tabla_de_multiplicar\bin\Debug\net7.0\36_tabla_de_multiplicar.dll
+D:\ejercicios\36_tabla_de_multiplicar\bin\Debug\net7.0\36_tabla_de_multiplicar.pdb
+D:\ejercicios\36_tabla_de_multiplicar\obj\Debug\net7.0\36_tabla_de_multiplicar.csproj.AssemblyReference.cache
+D:\ejercicios\36_tabla_de_multiplicar\obj\Debug\net7.0\36_tabla_de_multiplicar.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejercicios\36_tabla_de_multiplicar\obj\Debug\net7.0\36_tabla_de_multiplicar.AssemblyInfoInputs.cache
+D:\ejercicios\36_tabla_de_multiplicar\obj\Debug\net7.0\36_tabla_de_multiplicar.AssemblyInfo.cs
+D:\ejercicios\36_tabla_de_multiplicar\obj\Debug\net7.0\36_tabla_de_multiplicar.csproj.CoreCompileInputs.cache
+D:\ejercicios\36_tabla_de_multiplicar\obj\Debug\net7.0\36_tabla_de_multiplicar.dll
+D:\ejercicios\36_tabla_de_multiplicar\obj\Debug\net7.0\refint\36_tabla_de_multiplicar.dll
+D:\ejercicios\36_tabla_de_multiplicar\obj\Debug\net7.0\36_tabla_de_multiplicar.pdb
+D:\ejercicios\36_tabla_de_multiplicar\obj\Debug\net7.0\36_tabla_de_multiplicar.genruntimeconfig.cache
+D:\ejercicios\36_tabla_de_multiplicar\obj\Debug\net7.0\ref\36_tabla_de_multiplicar.dll

@@ -1,0 +1,15 @@
+D:\ejercicios\32-hombres-y-mujeres\obj\Debug\net7.0\32-hombres-y-mujeres.csproj.AssemblyReference.cache
+D:\ejercicios\32-hombres-y-mujeres\obj\Debug\net7.0\32-hombres-y-mujeres.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejercicios\32-hombres-y-mujeres\obj\Debug\net7.0\32-hombres-y-mujeres.AssemblyInfoInputs.cache
+D:\ejercicios\32-hombres-y-mujeres\obj\Debug\net7.0\32-hombres-y-mujeres.AssemblyInfo.cs
+D:\ejercicios\32-hombres-y-mujeres\obj\Debug\net7.0\32-hombres-y-mujeres.csproj.CoreCompileInputs.cache
+D:\ejercicios\32-hombres-y-mujeres\bin\Debug\net7.0\32-hombres-y-mujeres.exe
+D:\ejercicios\32-hombres-y-mujeres\bin\Debug\net7.0\32-hombres-y-mujeres.deps.json
+D:\ejercicios\32-hombres-y-mujeres\bin\Debug\net7.0\32-hombres-y-mujeres.runtimeconfig.json
+D:\ejercicios\32-hombres-y-mujeres\bin\Debug\net7.0\32-hombres-y-mujeres.dll
+D:\ejercicios\32-hombres-y-mujeres\bin\Debug\net7.0\32-hombres-y-mujeres.pdb
+D:\ejercicios\32-hombres-y-mujeres\obj\Debug\net7.0\32-hombres-y-mujeres.dll
+D:\ejercicios\32-hombres-y-mujeres\obj\Debug\net7.0\refint\32-hombres-y-mujeres.dll
+D:\ejercicios\32-hombres-y-mujeres\obj\Debug\net7.0\32-hombres-y-mujeres.pdb
+D:\ejercicios\32-hombres-y-mujeres\obj\Debug\net7.0\32-hombres-y-mujeres.genruntimeconfig.cache
+D:\ejercicios\32-hombres-y-mujeres\obj\Debug\net7.0\ref\32-hombres-y-mujeres.dll

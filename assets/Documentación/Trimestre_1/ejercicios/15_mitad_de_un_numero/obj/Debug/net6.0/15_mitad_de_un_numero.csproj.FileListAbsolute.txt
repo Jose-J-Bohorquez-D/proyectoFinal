@@ -1,0 +1,15 @@
+E:\ejercicios\15_mitad_de_un_numero\bin\Debug\net6.0\15_mitad_de_un_numero.exe
+E:\ejercicios\15_mitad_de_un_numero\bin\Debug\net6.0\15_mitad_de_un_numero.deps.json
+E:\ejercicios\15_mitad_de_un_numero\bin\Debug\net6.0\15_mitad_de_un_numero.runtimeconfig.json
+E:\ejercicios\15_mitad_de_un_numero\bin\Debug\net6.0\15_mitad_de_un_numero.dll
+E:\ejercicios\15_mitad_de_un_numero\bin\Debug\net6.0\ref\15_mitad_de_un_numero.dll
+E:\ejercicios\15_mitad_de_un_numero\bin\Debug\net6.0\15_mitad_de_un_numero.pdb
+E:\ejercicios\15_mitad_de_un_numero\obj\Debug\net6.0\15_mitad_de_un_numero.csproj.AssemblyReference.cache
+E:\ejercicios\15_mitad_de_un_numero\obj\Debug\net6.0\15_mitad_de_un_numero.GeneratedMSBuildEditorConfig.editorconfig
+E:\ejercicios\15_mitad_de_un_numero\obj\Debug\net6.0\15_mitad_de_un_numero.AssemblyInfoInputs.cache
+E:\ejercicios\15_mitad_de_un_numero\obj\Debug\net6.0\15_mitad_de_un_numero.AssemblyInfo.cs
+E:\ejercicios\15_mitad_de_un_numero\obj\Debug\net6.0\15_mitad_de_un_numero.csproj.CoreCompileInputs.cache
+E:\ejercicios\15_mitad_de_un_numero\obj\Debug\net6.0\15_mitad_de_un_numero.dll
+E:\ejercicios\15_mitad_de_un_numero\obj\Debug\net6.0\ref\15_mitad_de_un_numero.dll
+E:\ejercicios\15_mitad_de_un_numero\obj\Debug\net6.0\15_mitad_de_un_numero.pdb
+E:\ejercicios\15_mitad_de_un_numero\obj\Debug\net6.0\15_mitad_de_un_numero.genruntimeconfig.cache

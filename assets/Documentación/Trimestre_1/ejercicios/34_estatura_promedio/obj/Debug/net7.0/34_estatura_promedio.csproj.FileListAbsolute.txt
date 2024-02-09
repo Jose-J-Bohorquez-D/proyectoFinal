@@ -1,0 +1,15 @@
+D:\ejercicios\34_estatura_promedio\obj\Debug\net7.0\34_estatura_promedio.csproj.AssemblyReference.cache
+D:\ejercicios\34_estatura_promedio\obj\Debug\net7.0\34_estatura_promedio.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejercicios\34_estatura_promedio\obj\Debug\net7.0\34_estatura_promedio.AssemblyInfoInputs.cache
+D:\ejercicios\34_estatura_promedio\obj\Debug\net7.0\34_estatura_promedio.AssemblyInfo.cs
+D:\ejercicios\34_estatura_promedio\obj\Debug\net7.0\34_estatura_promedio.csproj.CoreCompileInputs.cache
+D:\ejercicios\34_estatura_promedio\bin\Debug\net7.0\34_estatura_promedio.exe
+D:\ejercicios\34_estatura_promedio\bin\Debug\net7.0\34_estatura_promedio.deps.json
+D:\ejercicios\34_estatura_promedio\bin\Debug\net7.0\34_estatura_promedio.runtimeconfig.json
+D:\ejercicios\34_estatura_promedio\bin\Debug\net7.0\34_estatura_promedio.dll
+D:\ejercicios\34_estatura_promedio\bin\Debug\net7.0\34_estatura_promedio.pdb
+D:\ejercicios\34_estatura_promedio\obj\Debug\net7.0\34_estatura_promedio.dll
+D:\ejercicios\34_estatura_promedio\obj\Debug\net7.0\refint\34_estatura_promedio.dll
+D:\ejercicios\34_estatura_promedio\obj\Debug\net7.0\34_estatura_promedio.pdb
+D:\ejercicios\34_estatura_promedio\obj\Debug\net7.0\34_estatura_promedio.genruntimeconfig.cache
+D:\ejercicios\34_estatura_promedio\obj\Debug\net7.0\ref\34_estatura_promedio.dll

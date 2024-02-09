@@ -1,0 +1,15 @@
+C:\Users\POS\Desktop\ejercicios\10_salario\obj\Debug\net7.0\10_salario.csproj.AssemblyReference.cache
+C:\Users\POS\Desktop\ejercicios\10_salario\obj\Debug\net7.0\10_salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POS\Desktop\ejercicios\10_salario\obj\Debug\net7.0\10_salario.AssemblyInfoInputs.cache
+C:\Users\POS\Desktop\ejercicios\10_salario\obj\Debug\net7.0\10_salario.AssemblyInfo.cs
+C:\Users\POS\Desktop\ejercicios\10_salario\obj\Debug\net7.0\10_salario.csproj.CoreCompileInputs.cache
+C:\Users\POS\Desktop\ejercicios\10_salario\bin\Debug\net7.0\10_salario.exe
+C:\Users\POS\Desktop\ejercicios\10_salario\bin\Debug\net7.0\10_salario.deps.json
+C:\Users\POS\Desktop\ejercicios\10_salario\bin\Debug\net7.0\10_salario.runtimeconfig.json
+C:\Users\POS\Desktop\ejercicios\10_salario\bin\Debug\net7.0\10_salario.dll
+C:\Users\POS\Desktop\ejercicios\10_salario\bin\Debug\net7.0\10_salario.pdb
+C:\Users\POS\Desktop\ejercicios\10_salario\obj\Debug\net7.0\10_salario.dll
+C:\Users\POS\Desktop\ejercicios\10_salario\obj\Debug\net7.0\refint\10_salario.dll
+C:\Users\POS\Desktop\ejercicios\10_salario\obj\Debug\net7.0\10_salario.pdb
+C:\Users\POS\Desktop\ejercicios\10_salario\obj\Debug\net7.0\10_salario.genruntimeconfig.cache
+C:\Users\POS\Desktop\ejercicios\10_salario\obj\Debug\net7.0\ref\10_salario.dll

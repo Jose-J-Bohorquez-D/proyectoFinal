@@ -1,0 +1,15 @@
+D:\ejercicios\24_letra_o_vocal\obj\Debug\net7.0\24_letra_o_vocal.csproj.AssemblyReference.cache
+D:\ejercicios\24_letra_o_vocal\obj\Debug\net7.0\24_letra_o_vocal.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejercicios\24_letra_o_vocal\obj\Debug\net7.0\24_letra_o_vocal.AssemblyInfoInputs.cache
+D:\ejercicios\24_letra_o_vocal\obj\Debug\net7.0\24_letra_o_vocal.AssemblyInfo.cs
+D:\ejercicios\24_letra_o_vocal\obj\Debug\net7.0\24_letra_o_vocal.csproj.CoreCompileInputs.cache
+D:\ejercicios\24_letra_o_vocal\bin\Debug\net7.0\24_letra_o_vocal.exe
+D:\ejercicios\24_letra_o_vocal\bin\Debug\net7.0\24_letra_o_vocal.deps.json
+D:\ejercicios\24_letra_o_vocal\bin\Debug\net7.0\24_letra_o_vocal.runtimeconfig.json
+D:\ejercicios\24_letra_o_vocal\bin\Debug\net7.0\24_letra_o_vocal.dll
+D:\ejercicios\24_letra_o_vocal\bin\Debug\net7.0\24_letra_o_vocal.pdb
+D:\ejercicios\24_letra_o_vocal\obj\Debug\net7.0\24_letra_o_vocal.dll
+D:\ejercicios\24_letra_o_vocal\obj\Debug\net7.0\refint\24_letra_o_vocal.dll
+D:\ejercicios\24_letra_o_vocal\obj\Debug\net7.0\24_letra_o_vocal.pdb
+D:\ejercicios\24_letra_o_vocal\obj\Debug\net7.0\24_letra_o_vocal.genruntimeconfig.cache
+D:\ejercicios\24_letra_o_vocal\obj\Debug\net7.0\ref\24_letra_o_vocal.dll

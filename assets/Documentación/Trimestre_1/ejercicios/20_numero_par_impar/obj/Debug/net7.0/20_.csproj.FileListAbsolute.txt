@@ -1,0 +1,15 @@
+E:\ejercicios\20_\obj\Debug\net7.0\20_.csproj.AssemblyReference.cache
+E:\ejercicios\20_\obj\Debug\net7.0\20_.GeneratedMSBuildEditorConfig.editorconfig
+E:\ejercicios\20_\obj\Debug\net7.0\20_.AssemblyInfoInputs.cache
+E:\ejercicios\20_\obj\Debug\net7.0\20_.AssemblyInfo.cs
+E:\ejercicios\20_\obj\Debug\net7.0\20_.csproj.CoreCompileInputs.cache
+E:\ejercicios\20_\bin\Debug\net7.0\20_.exe
+E:\ejercicios\20_\bin\Debug\net7.0\20_.deps.json
+E:\ejercicios\20_\bin\Debug\net7.0\20_.runtimeconfig.json
+E:\ejercicios\20_\bin\Debug\net7.0\20_.dll
+E:\ejercicios\20_\bin\Debug\net7.0\20_.pdb
+E:\ejercicios\20_\obj\Debug\net7.0\20_.dll
+E:\ejercicios\20_\obj\Debug\net7.0\refint\20_.dll
+E:\ejercicios\20_\obj\Debug\net7.0\20_.pdb
+E:\ejercicios\20_\obj\Debug\net7.0\20_.genruntimeconfig.cache
+E:\ejercicios\20_\obj\Debug\net7.0\ref\20_.dll

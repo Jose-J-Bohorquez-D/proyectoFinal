@@ -1,0 +1,15 @@
+E:\ejercicios\16_operaciones\obj\Debug\net6.0\16_operaciones.csproj.AssemblyReference.cache
+E:\ejercicios\16_operaciones\obj\Debug\net6.0\16_operaciones.GeneratedMSBuildEditorConfig.editorconfig
+E:\ejercicios\16_operaciones\obj\Debug\net6.0\16_operaciones.AssemblyInfoInputs.cache
+E:\ejercicios\16_operaciones\obj\Debug\net6.0\16_operaciones.AssemblyInfo.cs
+E:\ejercicios\16_operaciones\obj\Debug\net6.0\16_operaciones.csproj.CoreCompileInputs.cache
+E:\ejercicios\16_operaciones\bin\Debug\net6.0\16_operaciones.exe
+E:\ejercicios\16_operaciones\bin\Debug\net6.0\16_operaciones.deps.json
+E:\ejercicios\16_operaciones\bin\Debug\net6.0\16_operaciones.runtimeconfig.json
+E:\ejercicios\16_operaciones\bin\Debug\net6.0\16_operaciones.dll
+E:\ejercicios\16_operaciones\bin\Debug\net6.0\ref\16_operaciones.dll
+E:\ejercicios\16_operaciones\bin\Debug\net6.0\16_operaciones.pdb
+E:\ejercicios\16_operaciones\obj\Debug\net6.0\16_operaciones.dll
+E:\ejercicios\16_operaciones\obj\Debug\net6.0\ref\16_operaciones.dll
+E:\ejercicios\16_operaciones\obj\Debug\net6.0\16_operaciones.pdb
+E:\ejercicios\16_operaciones\obj\Debug\net6.0\16_operaciones.genruntimeconfig.cache

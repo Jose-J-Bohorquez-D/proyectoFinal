@@ -1,0 +1,15 @@
+C:\Users\POS\Desktop\ejercicios\8_promedio\bin\Debug\net7.0\8_promedio.exe
+C:\Users\POS\Desktop\ejercicios\8_promedio\bin\Debug\net7.0\8_promedio.deps.json
+C:\Users\POS\Desktop\ejercicios\8_promedio\bin\Debug\net7.0\8_promedio.runtimeconfig.json
+C:\Users\POS\Desktop\ejercicios\8_promedio\bin\Debug\net7.0\8_promedio.dll
+C:\Users\POS\Desktop\ejercicios\8_promedio\bin\Debug\net7.0\8_promedio.pdb
+C:\Users\POS\Desktop\ejercicios\8_promedio\obj\Debug\net7.0\8_promedio.csproj.AssemblyReference.cache
+C:\Users\POS\Desktop\ejercicios\8_promedio\obj\Debug\net7.0\8_promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POS\Desktop\ejercicios\8_promedio\obj\Debug\net7.0\8_promedio.AssemblyInfoInputs.cache
+C:\Users\POS\Desktop\ejercicios\8_promedio\obj\Debug\net7.0\8_promedio.AssemblyInfo.cs
+C:\Users\POS\Desktop\ejercicios\8_promedio\obj\Debug\net7.0\8_promedio.csproj.CoreCompileInputs.cache
+C:\Users\POS\Desktop\ejercicios\8_promedio\obj\Debug\net7.0\8_promedio.dll
+C:\Users\POS\Desktop\ejercicios\8_promedio\obj\Debug\net7.0\refint\8_promedio.dll
+C:\Users\POS\Desktop\ejercicios\8_promedio\obj\Debug\net7.0\8_promedio.pdb
+C:\Users\POS\Desktop\ejercicios\8_promedio\obj\Debug\net7.0\8_promedio.genruntimeconfig.cache
+C:\Users\POS\Desktop\ejercicios\8_promedio\obj\Debug\net7.0\ref\8_promedio.dll

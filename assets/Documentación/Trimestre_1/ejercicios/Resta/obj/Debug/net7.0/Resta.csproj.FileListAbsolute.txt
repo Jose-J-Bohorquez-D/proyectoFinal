@@ -1,0 +1,15 @@
+C:\Users\POS\Desktop\ejercicios\Resta\bin\Debug\net7.0\Resta.exe
+C:\Users\POS\Desktop\ejercicios\Resta\bin\Debug\net7.0\Resta.deps.json
+C:\Users\POS\Desktop\ejercicios\Resta\bin\Debug\net7.0\Resta.runtimeconfig.json
+C:\Users\POS\Desktop\ejercicios\Resta\bin\Debug\net7.0\Resta.dll
+C:\Users\POS\Desktop\ejercicios\Resta\bin\Debug\net7.0\Resta.pdb
+C:\Users\POS\Desktop\ejercicios\Resta\obj\Debug\net7.0\Resta.csproj.AssemblyReference.cache
+C:\Users\POS\Desktop\ejercicios\Resta\obj\Debug\net7.0\Resta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POS\Desktop\ejercicios\Resta\obj\Debug\net7.0\Resta.AssemblyInfoInputs.cache
+C:\Users\POS\Desktop\ejercicios\Resta\obj\Debug\net7.0\Resta.AssemblyInfo.cs
+C:\Users\POS\Desktop\ejercicios\Resta\obj\Debug\net7.0\Resta.csproj.CoreCompileInputs.cache
+C:\Users\POS\Desktop\ejercicios\Resta\obj\Debug\net7.0\Resta.dll
+C:\Users\POS\Desktop\ejercicios\Resta\obj\Debug\net7.0\refint\Resta.dll
+C:\Users\POS\Desktop\ejercicios\Resta\obj\Debug\net7.0\Resta.pdb
+C:\Users\POS\Desktop\ejercicios\Resta\obj\Debug\net7.0\Resta.genruntimeconfig.cache
+C:\Users\POS\Desktop\ejercicios\Resta\obj\Debug\net7.0\ref\Resta.dll

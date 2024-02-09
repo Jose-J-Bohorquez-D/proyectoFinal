@@ -1,0 +1,15 @@
+D:\ejercicios\23_Baloncesto\bin\Debug\net7.0\23_Baloncesto.exe
+D:\ejercicios\23_Baloncesto\bin\Debug\net7.0\23_Baloncesto.deps.json
+D:\ejercicios\23_Baloncesto\bin\Debug\net7.0\23_Baloncesto.runtimeconfig.json
+D:\ejercicios\23_Baloncesto\bin\Debug\net7.0\23_Baloncesto.dll
+D:\ejercicios\23_Baloncesto\bin\Debug\net7.0\23_Baloncesto.pdb
+D:\ejercicios\23_Baloncesto\obj\Debug\net7.0\23_Baloncesto.csproj.AssemblyReference.cache
+D:\ejercicios\23_Baloncesto\obj\Debug\net7.0\23_Baloncesto.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejercicios\23_Baloncesto\obj\Debug\net7.0\23_Baloncesto.AssemblyInfoInputs.cache
+D:\ejercicios\23_Baloncesto\obj\Debug\net7.0\23_Baloncesto.AssemblyInfo.cs
+D:\ejercicios\23_Baloncesto\obj\Debug\net7.0\23_Baloncesto.csproj.CoreCompileInputs.cache
+D:\ejercicios\23_Baloncesto\obj\Debug\net7.0\23_Baloncesto.dll
+D:\ejercicios\23_Baloncesto\obj\Debug\net7.0\refint\23_Baloncesto.dll
+D:\ejercicios\23_Baloncesto\obj\Debug\net7.0\23_Baloncesto.pdb
+D:\ejercicios\23_Baloncesto\obj\Debug\net7.0\23_Baloncesto.genruntimeconfig.cache
+D:\ejercicios\23_Baloncesto\obj\Debug\net7.0\ref\23_Baloncesto.dll

@@ -1,0 +1,15 @@
+E:\ejercicios\30_201_impar\bin\Debug\net7.0\30_201_impar.exe
+E:\ejercicios\30_201_impar\bin\Debug\net7.0\30_201_impar.deps.json
+E:\ejercicios\30_201_impar\bin\Debug\net7.0\30_201_impar.runtimeconfig.json
+E:\ejercicios\30_201_impar\bin\Debug\net7.0\30_201_impar.dll
+E:\ejercicios\30_201_impar\bin\Debug\net7.0\30_201_impar.pdb
+E:\ejercicios\30_201_impar\obj\Debug\net7.0\30_201_impar.csproj.AssemblyReference.cache
+E:\ejercicios\30_201_impar\obj\Debug\net7.0\30_201_impar.GeneratedMSBuildEditorConfig.editorconfig
+E:\ejercicios\30_201_impar\obj\Debug\net7.0\30_201_impar.AssemblyInfoInputs.cache
+E:\ejercicios\30_201_impar\obj\Debug\net7.0\30_201_impar.AssemblyInfo.cs
+E:\ejercicios\30_201_impar\obj\Debug\net7.0\30_201_impar.csproj.CoreCompileInputs.cache
+E:\ejercicios\30_201_impar\obj\Debug\net7.0\30_201_impar.dll
+E:\ejercicios\30_201_impar\obj\Debug\net7.0\refint\30_201_impar.dll
+E:\ejercicios\30_201_impar\obj\Debug\net7.0\30_201_impar.pdb
+E:\ejercicios\30_201_impar\obj\Debug\net7.0\30_201_impar.genruntimeconfig.cache
+E:\ejercicios\30_201_impar\obj\Debug\net7.0\ref\30_201_impar.dll

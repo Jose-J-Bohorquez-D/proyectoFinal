@@ -1,0 +1,15 @@
+C:\Users\POS\Desktop\ejercicios\distancia\bin\Debug\net7.0\distancia.exe
+C:\Users\POS\Desktop\ejercicios\distancia\bin\Debug\net7.0\distancia.deps.json
+C:\Users\POS\Desktop\ejercicios\distancia\bin\Debug\net7.0\distancia.runtimeconfig.json
+C:\Users\POS\Desktop\ejercicios\distancia\bin\Debug\net7.0\distancia.dll
+C:\Users\POS\Desktop\ejercicios\distancia\bin\Debug\net7.0\distancia.pdb
+C:\Users\POS\Desktop\ejercicios\distancia\obj\Debug\net7.0\distancia.csproj.AssemblyReference.cache
+C:\Users\POS\Desktop\ejercicios\distancia\obj\Debug\net7.0\distancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POS\Desktop\ejercicios\distancia\obj\Debug\net7.0\distancia.AssemblyInfoInputs.cache
+C:\Users\POS\Desktop\ejercicios\distancia\obj\Debug\net7.0\distancia.AssemblyInfo.cs
+C:\Users\POS\Desktop\ejercicios\distancia\obj\Debug\net7.0\distancia.csproj.CoreCompileInputs.cache
+C:\Users\POS\Desktop\ejercicios\distancia\obj\Debug\net7.0\distancia.dll
+C:\Users\POS\Desktop\ejercicios\distancia\obj\Debug\net7.0\refint\distancia.dll
+C:\Users\POS\Desktop\ejercicios\distancia\obj\Debug\net7.0\distancia.pdb
+C:\Users\POS\Desktop\ejercicios\distancia\obj\Debug\net7.0\distancia.genruntimeconfig.cache
+C:\Users\POS\Desktop\ejercicios\distancia\obj\Debug\net7.0\ref\distancia.dll

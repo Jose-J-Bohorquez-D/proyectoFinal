@@ -1,0 +1,15 @@
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\obj\Debug\net7.0\13_numero_mayor.csproj.AssemblyReference.cache
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\obj\Debug\net7.0\13_numero_mayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\obj\Debug\net7.0\13_numero_mayor.AssemblyInfoInputs.cache
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\obj\Debug\net7.0\13_numero_mayor.AssemblyInfo.cs
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\obj\Debug\net7.0\13_numero_mayor.csproj.CoreCompileInputs.cache
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\bin\Debug\net7.0\13_numero_mayor.exe
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\bin\Debug\net7.0\13_numero_mayor.deps.json
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\bin\Debug\net7.0\13_numero_mayor.runtimeconfig.json
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\bin\Debug\net7.0\13_numero_mayor.dll
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\bin\Debug\net7.0\13_numero_mayor.pdb
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\obj\Debug\net7.0\13_numero_mayor.dll
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\obj\Debug\net7.0\refint\13_numero_mayor.dll
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\obj\Debug\net7.0\13_numero_mayor.pdb
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\obj\Debug\net7.0\13_numero_mayor.genruntimeconfig.cache
+C:\Users\POS\Desktop\ejercicios\13_numero_mayor\obj\Debug\net7.0\ref\13_numero_mayor.dll

@@ -1,0 +1,15 @@
+D:\ejercicios\33_edad_promedio\obj\Debug\net7.0\33_edad_promedio.csproj.AssemblyReference.cache
+D:\ejercicios\33_edad_promedio\obj\Debug\net7.0\33_edad_promedio.GeneratedMSBuildEditorConfig.editorconfig
+D:\ejercicios\33_edad_promedio\obj\Debug\net7.0\33_edad_promedio.AssemblyInfoInputs.cache
+D:\ejercicios\33_edad_promedio\obj\Debug\net7.0\33_edad_promedio.AssemblyInfo.cs
+D:\ejercicios\33_edad_promedio\obj\Debug\net7.0\33_edad_promedio.csproj.CoreCompileInputs.cache
+D:\ejercicios\33_edad_promedio\bin\Debug\net7.0\33_edad_promedio.exe
+D:\ejercicios\33_edad_promedio\bin\Debug\net7.0\33_edad_promedio.deps.json
+D:\ejercicios\33_edad_promedio\bin\Debug\net7.0\33_edad_promedio.runtimeconfig.json
+D:\ejercicios\33_edad_promedio\bin\Debug\net7.0\33_edad_promedio.dll
+D:\ejercicios\33_edad_promedio\bin\Debug\net7.0\33_edad_promedio.pdb
+D:\ejercicios\33_edad_promedio\obj\Debug\net7.0\33_edad_promedio.dll
+D:\ejercicios\33_edad_promedio\obj\Debug\net7.0\refint\33_edad_promedio.dll
+D:\ejercicios\33_edad_promedio\obj\Debug\net7.0\33_edad_promedio.pdb
+D:\ejercicios\33_edad_promedio\obj\Debug\net7.0\33_edad_promedio.genruntimeconfig.cache
+D:\ejercicios\33_edad_promedio\obj\Debug\net7.0\ref\33_edad_promedio.dll
