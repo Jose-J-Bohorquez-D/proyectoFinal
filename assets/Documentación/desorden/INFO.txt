@@ -1,4 +1,16 @@
-ACA VAN TODAS LAS EVIDENCIAS DE APRENDIZAJE QUE SUMINISTRO EL INSTRUCTOR
-
-actividad 1 mer pendiente subir 
-guia 1 
+Trimestre|  Lista de Chequeo
+o Módulo |                                                                                         | Valoración
+---------|-----------------------------------------------------------------------------------------|-----------
+I        |Nombre proyecto - Objetivo general - Objetivos específicos - Planteamiento del problema -|
+         |Alcance del proyecto - Justificación(Objetivos enfocados al proyecto no al ciclo de vida)|CUMPLE
+---------|-----------------------------------------------------------------------------------------|----------
+I        |En el proyecto se evidencian requerimientos                                              |CUMPLE
+---------|-----------------------------------------------------------------------------------------|----------
+I        |Se evidencia el diagrama de casos de uso, objetos y clase del proyecto usando el estándar|
+         |UML 2,4,1 o superior                                                                     |CUMPLE
+---------|-----------------------------------------------------------------------------------------|----------
+I        |Mockups / Diseño interfaz gráfica Pagina Web Principal (HTML - CSS - JS)                 |CUMPLE
+---------|-----------------------------------------------------------------------------------------|----------
+I        |Software de acuerdo a la arquitectura propuesta siguiendo las buenas prácticas de        |
+         |programación                                                                             |CUMPLE
+---------|-----------------------------------------------------------------------------------------|----------
