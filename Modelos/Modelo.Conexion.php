@@ -2,6 +2,9 @@
 
 class ConexionCampeche
 {
+
+ /*
+{
     public static function connection(){            
         $hostname = "campeche.mysql.database.azure.com";
         $port = "3306";
@@ -15,9 +18,9 @@ class ConexionCampeche
         $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
         return $pdo;
         }
-    }
+} */
 
-    /*
+    
     public static function conectar()
     {
         try {
@@ -31,7 +34,7 @@ class ConexionCampeche
             return null; // Devuelve null para indicar que la conexión falló
         }
     }
-}*/
+}
 
 #$c = new ConexionCampeche;
 #$c->conectar();
