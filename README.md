@@ -1,8 +1,14 @@
+link para revisar desde azure:
+
+	*	https://campeche.azurewebsites.net/
+
+
+
 evidencias pendientes:
 
 trim 2 :
 
-	*	diccionario 
+	*	diccionario listo para subir desde otro ambiente
 
 trim 3 :
 
