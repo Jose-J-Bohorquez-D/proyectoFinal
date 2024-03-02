@@ -2,6 +2,10 @@ link para revisar desde azure:
 
 	*	https://campeche.azurewebsites.net/
 
+link para revisar el portafolio (esta estructurado, falta subir los contenidos) 
+
+	*	https://drive.google.com/drive/folders/1ZqbFWg_WOPNxS9heJ5JTsietCwdb_iuK?usp=sharing
+
 
 
 evidencias pendientes:
