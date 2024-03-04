@@ -10,10 +10,6 @@ link para revisar el portafolio (esta estructurado, falta subir los contenidos)
 
 evidencias pendientes:
 
-trim 2 :
-
-	*	diccionario listo para subir desde otro ambiente
-
 trim 3 :
 
 	*	pruebas unitarias de software
