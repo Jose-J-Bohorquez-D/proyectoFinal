@@ -1,7 +1,7 @@
 <div class="container5">
     <div class="banner">
         <div class="text">
-            <h3>Sin Intermediarios</h3>
+            <h3>CATEGORIAS</h3>
             <h4>Trabajando con los CAMPESINOS</h4>
         </div>
         <div class="imagen-banner">
