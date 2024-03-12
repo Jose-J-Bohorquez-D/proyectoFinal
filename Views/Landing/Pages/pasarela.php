@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>campeche-zona de compras</title>
-    <link rel="icon" type="Vistas/Dependencias/imagenes/png" href="Vistas/Dependencias/imagenes/WhatsApp_Image_2023-07-10_at_10_09_36_PM-M5ekvj1sa-transformed-removebg-preview.png">
+    <link rel="icon" type="Views/Dependencias/imagenes/png" href="Views/Dependencias/imagenes/WhatsApp_Image_2023-07-10_at_10_09_36_PM-M5ekvj1sa-transformed-removebg-preview.png">
     
     
 </head>
 <body>
     <header >
         <div class="contenedor1">
-            <h1 class="logo"><img src="Vistas/Dependencias/imagenes/logo campeche.jpg"></h1>
+            <h1 class="logo"><img src="Views/Dependencias/imagenes/logo campeche.jpg"></h1>
             <h2 class="nombre1">CAMPECHE</h2>
             <nav class="accesos">
                 <ul class="menu">
@@ -32,7 +32,7 @@
         <div class="pasarela">
                  
                     <div class="producto">
-                        <img class="productoimagen" src="Vistas/Dependencias/imagenes/ajos.jpeg" alt="Ajo importado">
+                        <img class="productoimagen" src="Views/Dependencias/imagenes/ajos.jpeg" alt="Ajo importado">
                         <div class="productodetalle">
                         <h3 class="productotitulo">Ajo</h3>
                         <p class="producto-precio"> precio: libra $8.250</p>
@@ -41,7 +41,7 @@
                     </div>
                 
                     <div class="producto">
-                        <img class="productoimagen" src="Vistas/Dependencias/imagenes/platano verde.jpg" alt="Platano verde">
+                        <img class="productoimagen" src="Views/Dependencias/imagenes/platano verde.jpg" alt="Platano verde">
                         <div class="productodetalle">
                         <h3 class="productotitulo">Platano Verde</h3>
                         <p class="producto-precio"> precio: Unidad $2.500</p>
@@ -51,7 +51,7 @@
                   
                  
                     <div class="producto">
-                        <img class="productoimagen" src="Vistas/Dependencias/imagenes/mora-768x768.jpg" alt="Mora">
+                        <img class="productoimagen" src="Views/Dependencias/imagenes/mora-768x768.jpg" alt="Mora">
                         <div class="productodetalle">
                         <h3 class="productotitulo">Mora</h3>
                         <p class="producto-precio"> precio: Libra $3.000</p>

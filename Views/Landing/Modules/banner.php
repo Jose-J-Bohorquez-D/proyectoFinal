@@ -5,7 +5,7 @@
             <h4>Trabajando con los CAMPESINOS</h4>
         </div>
         <div class="imagen-banner">
-            <img src="Vistas/Landing/Dependencias/imagenes/banner.jpg" alt="hortalizas">
+            <img src="Views/Landing/Dependencias/imagenes/banner.jpg" alt="hortalizas">
         </div>
         <nav class="nav">
             <a href="#"> Agro Industria</a><br> 

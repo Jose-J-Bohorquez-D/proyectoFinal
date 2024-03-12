@@ -1,34 +1,34 @@
 <div class="container2">
- <section class="imagenesgaleria">
-    <div class="image active" style="background-image: url(Vistas/Landing/Dependencias/imagenes/galeria/plaza6.jpg);">
+<section class="imagenesgaleria">
+    <div class="image active" style="background-image: url(Views/Landing/Dependencias/imagenes/galeria/plaza6.jpg);">
         <div class="label">
             <div class="icon">
                 <i class="bi bi-camera"></i>
             </div>
         </div>
     </div>
-    <div class="image" style="background-image: url(Vistas/Landing/Dependencias/imagenes/galeria/plaza2.png);">
+    <div class="image" style="background-image: url(Views/Landing/Dependencias/imagenes/galeria/plaza2.png);">
         <div class="label">
             <div class="icon">
                 <i class="bi bi-camera"></i>
             </div>
         </div>
     </div>
-    <div class="image" style="background-image: url(Vistas/Landing/Dependencias/imagenes/galeria/plaza3.jpg);">
+    <div class="image" style="background-image: url(Views/Landing/Dependencias/imagenes/galeria/plaza3.jpg);">
         <div class="label">
             <div class="icon">
                 <i class="bi bi-camera"></i>
             </div>
         </div>
     </div>
-    <div class="image" style="background-image: url(Vistas/Landing/Dependencias/imagenes/galeria/plaza7.jpg);">
+    <div class="image" style="background-image: url(Views/Landing/Dependencias/imagenes/galeria/plaza7.jpg);">
         <div class="label">
             <div class="icon">
                 <i class="bi bi-camera"></i>
             </div>
         </div>
     </div>
-    <div class="image" style="background-image: url(Vistas/Landing/Dependencias/imagenes/galeria/plaza5.jpg);">
+    <div class="image" style="background-image: url(Views/Landing/Dependencias/imagenes/galeria/plaza5.jpg);">
         <div class="label">
             <div class="icon">
                 <i class="bi bi-camera"></i>
@@ -37,5 +37,5 @@
     </div>
     <br>
     <!--CONTENEDOR 3-->
-     </section>
+</section>
 </div>
