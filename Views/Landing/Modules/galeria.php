@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Vistas/Landing/Modulos/galeria.php
 <style type="text/css">
     .imagen-carrusel {
         height: 400px; /* Ajusta el valor según la altura deseada */  
@@ -63,4 +64,46 @@
                 </div>
         </div>
     <div class="col col-sm-2"></div>
+=======
+<div class="container2">
+<section class="imagenesgaleria">
+    <div class="image active" style="background-image: url(Views/Landing/Dependencias/imagenes/galeria/plaza6.jpg);">
+        <div class="label">
+            <div class="icon">
+                <i class="bi bi-camera"></i>
+            </div>
+        </div>
+    </div>
+    <div class="image" style="background-image: url(Views/Landing/Dependencias/imagenes/galeria/plaza2.png);">
+        <div class="label">
+            <div class="icon">
+                <i class="bi bi-camera"></i>
+            </div>
+        </div>
+    </div>
+    <div class="image" style="background-image: url(Views/Landing/Dependencias/imagenes/galeria/plaza3.jpg);">
+        <div class="label">
+            <div class="icon">
+                <i class="bi bi-camera"></i>
+            </div>
+        </div>
+    </div>
+    <div class="image" style="background-image: url(Views/Landing/Dependencias/imagenes/galeria/plaza7.jpg);">
+        <div class="label">
+            <div class="icon">
+                <i class="bi bi-camera"></i>
+            </div>
+        </div>
+    </div>
+    <div class="image" style="background-image: url(Views/Landing/Dependencias/imagenes/galeria/plaza5.jpg);">
+        <div class="label">
+            <div class="icon">
+                <i class="bi bi-camera"></i>
+            </div>
+        </div>
+    </div>
+    <br>
+    <!--CONTENEDOR 3-->
+</section>
+>>>>>>> Ronalc:Views/Landing/Modules/galeria.php
 </div>

@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>carrito de compras</title>
         
-        <link rel="icon" type="Vistas/Dependencias/imagenes/png" href="Vistas/Dependencias/imagenes/WhatsApp_Image_2023-07-10_at_10_09_36_PM-M5ekvj1sa-transformed-removebg-preview.png">
+        <link rel="icon" type="Views/Dependencias/imagenes/png" href="Views/Dependencias/imagenes/WhatsApp_Image_2023-07-10_at_10_09_36_PM-M5ekvj1sa-transformed-removebg-preview.png">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 
         
@@ -16,7 +16,7 @@
         <div class="wrapper">
             <aside>
                 <header>
-                        <h1 class="logo"><img src="Vistas/Dependencias/imagenes/logo campeche.jpg"></h1>
+                        <h1 class="logo"><img src="Views/Dependencias/imagenes/logo campeche.jpg"></h1>
                         <h2 class="nombre">CAMPECHE</h2>
                    
                     <nav>
@@ -45,7 +45,7 @@
                         <div class="carritoproductos disabled">
 
                             <div class="carritoproducto">
-                                <img class="carritoimagen" src="Vistas/Dependencias/imagenes/ajos.jpeg" alt="">
+                                <img class="carritoimagen" src="Views/Dependencias/imagenes/ajos.jpeg" alt="">
                                 <div class="carrito-produc-titulo">
                                     <small>Titulo</small>
                                     <h3>Ajo importado</h3>
@@ -66,7 +66,7 @@
                         </div>
                                             
                         <div class="carritoproducto">
-                            <img class="carritoimagen" src="Vistas/Dependencias/imagenes/platano verde.jpg" alt="">
+                            <img class="carritoimagen" src="Views/Dependencias/imagenes/platano verde.jpg" alt="">
                             <div class="carrito-produc-titulo">
                                 <small>Titulo</small>
                                 <h3>Platano verde</h3>
