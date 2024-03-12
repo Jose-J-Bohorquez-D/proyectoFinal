@@ -18,6 +18,12 @@ trim 3 :
 
 trim 4 :
 
-	*	evidencia puesta en funcionamiento del aplicativo
- 
-	*	presenta manual de usuario
+	*	evidencia la instalacion y configuracion el servidor de aplicaciones o el app service
+
+	*	evidencia la instalacion y configuracion el servidor de BD y/o fuente de datos
+
+trim 4 :
+
+	* evidencia puesta en funcionamiento de la implantacion segun plan de implementacion establecido
+
+	*	presenta manual de usuario segun normas y procedimientos establecidos (va al final despues de que este funcionando todo)
