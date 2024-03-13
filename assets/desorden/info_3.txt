@@ -1,7 +1,0 @@
-Trimestre|  Lista de Chequeo
-o Módulo |                                                                                         | Valoración
----------|-----------------------------------------------------------------------------------------|----------
-III      |Evidencia la realización de las pruebas unitarias del software                           |NO_CUMPLE
----------|-----------------------------------------------------------------------------------------|----------
-III      |Evidencia la documentación de las pruebas unitarias del software                         |NO_CUMPLE
----------|-----------------------------------------------------------------------------------------|----------

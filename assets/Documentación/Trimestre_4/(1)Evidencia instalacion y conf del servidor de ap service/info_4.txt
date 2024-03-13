@@ -1,7 +1,0 @@
-Trimestre|  Lista de Chequeo
-o Módulo |                                                                                         | Valoración
----------|-----------------------------------------------------------------------------------------|----------
-IV       |Evidencia la Instalación y configuración el servidor de aplicaciones ó el App Service.   |NO_CUMPLE
----------|-----------------------------------------------------------------------------------------|----------
-IV       |Evidencia la Instalación y configuración del servidor de DB y/o fuente de datos.         |NO_CUMPLE
----------|-----------------------------------------------------------------------------------------|---------
