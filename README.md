@@ -9,10 +9,6 @@ link para revisar el portafolio (esta estructurado, falta subir los contenidos)
 
 evidencias pendientes:
 
-trim 3 :
-
-	*	pruebas unitarias de software
-
 trim 5 :
 
 	* 	evidencia puesta en funcionamiento de la implantacion segun plan de implementacion establecido
