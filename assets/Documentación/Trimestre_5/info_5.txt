@@ -1,8 +1,0 @@
-Trimestre|  Lista de Chequeo
-o Módulo |                                                                                         | Valoración
----------|-----------------------------------------------------------------------------------------|---------
-V        |Evidencia la puesta en funcionamiento de la aplicación según plan de implementación      |
-         |establecido                                                                              |NO_CUMPLE
----------|-----------------------------------------------------------------------------------------|--------
-V        |Presenta el manual de usuario, según normas y procedimientos establecidos                |NO_CUMPLE
----------------------------------------------------------------------------------------------------------------
