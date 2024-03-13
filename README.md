@@ -13,7 +13,7 @@ trim 3 :
 
 	*	pruebas unitarias de software
 
-trim 4 :
+trim 5 :
 
 	* 	evidencia puesta en funcionamiento de la implantacion segun plan de implementacion establecido
 
