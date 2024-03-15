@@ -3,8 +3,8 @@
         height: 200px; /* Ajusta el valor según la altura deseada */  
 }
 </style>
-<div class="col col-sm-2"></div>
-  <div class="col col-sm-12">
+<div class="col col-sm-3"></div>
+  <div class="col col-sm-6">
     <div class="row">
       <div id="carouselExampleRide" class="carousel slide" data-bs-ride="true">
         <div class="carousel-inner">
