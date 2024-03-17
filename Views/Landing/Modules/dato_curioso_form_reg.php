@@ -1,4 +1,4 @@
-<!--CONTAINER 6-->
+<!--CONTAINER 6-
 <br>
 <div class="info">
     <article class="article">

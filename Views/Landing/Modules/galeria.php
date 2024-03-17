@@ -1,8 +1,4 @@
-<style type="text/css">
-    .imagen-carrusel {
-        height: 200px; /* Ajusta el valor según la altura deseada */  
-}
-</style>
+<!--
 <div class="col col-sm-3"></div>
   <div class="col col-sm-6">
     <div class="row">

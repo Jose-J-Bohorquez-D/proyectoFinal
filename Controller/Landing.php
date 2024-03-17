@@ -1,5 +1,4 @@
-<?php 
-
+<?php session_start();
     class Landing
     {
         
@@ -8,15 +7,12 @@
         public function main()
         {
 
-        	require_once("Views/Landing/Modules/Header.php");
-            require_once("Views/Landing/Modules/navbar.php");
-            require_once("Views/Landing/Pages/Inicio.php");
-        	require_once("Views/Landing/Modules/Footer.php");
+        	require_once("Views/Landing/Templates/Header.php");
+            require_once("Views/Landing/index.php");
+        	require_once("Views/Landing/Templates/Footer.php");
 
         }
 
-
     }
-
 
 ?>
