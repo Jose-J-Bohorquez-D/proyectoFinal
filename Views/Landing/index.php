@@ -1,55 +1,68 @@
-<body>
+<body style="background-image: url(Views/Landing/Dependencias/imagenes/background.jpeg)";>
+<!-- inicio banner -->
 
-    <div class="col col-sm-3"></div>
-        <div class="col col-sm-6">
-            <div class="row">
-                <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src="Views/Landing/Dependencias/imagenes/galeria/plaza6.jpg" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item" >
-                            <img src="Views/Landing/Dependencias/imagenes/galeria/plaza2.png" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item" >
-                            <img src="Views/Landing/Dependencias/imagenes/galeria/plaza3.jpg" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="Views/Landing/Dependencias/imagenes/galeria/plaza7.jpg" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="Views/Landing/Dependencias/imagenes/galeria/plaza5.jpg" class="d-block w-100" alt="...">
-                        </div>
+    <div class=" col col-sm-10">
+        <div class=" ">
+            <div id="carouselExampleAutoplaying" class=" carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner ">
+                    <div class="carousel-item active">
+                        <img src="Views/Landing/Dependencias/imagenes/galeria/plaza6.jpg" height="500px" class=" d-block w-100" alt="...">
                     </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                    </button>
+                    <div class="carousel-item" >
+                        <img src="Views/Landing/Dependencias/imagenes/galeria/plaza2.png" height="500px" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item" >
+                        <img src="Views/Landing/Dependencias/imagenes/galeria/plaza3.jpg" height="500px" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="Views/Landing/Dependencias/imagenes/galeria/plaza7.jpg" height="500px" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="Views/Landing/Dependencias/imagenes/galeria/plaza5.jpg" height="500px" class="d-block w-100" alt="...">
+                    </div>
                 </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+                </button>
             </div>
         </div>
     </div>
+
+    <!-- Fin banner-->
+
+    <!-- Inicio categorias-->
     <div class="container5">
         <div class="banner">
             <div class="text">
                 <h3>CATEGORIAS</h3>
                 <h4>Trabajando con los CAMPESINOS</h4>
             </div>
-            <div class="imagen-banner">
-                <img src="Views/Landing/Dependencias/imagenes/banner.jpg" alt="hortalizas">
+            <div class="row">
+            <div class="col-12 col-md-4 p-5 mt-3">
+                <a href="#"><img src="Views/Landing/Dependencias/imagenes/frutas.jpg" class="img-fluid border"></a>
+                <h5 class="text-center mt-3 mb-3">Frutas</h5>
+                <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
             </div>
-            <nav class="nav">
-                <a href="#"> Agro Industria</a><br> 
-                <a href="#"> Medio Ambiente</a><br>
-                <a href="#"> Sanidad Vegetal</a><br>
-                <a href="#"> Sostenibilidad</a>
-            </nav>
+            <div class="col-12 col-md-4 p-5 mt-3">
+                <a href="#"><img src="Views/Landing/Dependencias/imagenes/vegetales.jpg" class=" img-fluid border"></a>
+                <h5 class="text-center mt-3 mb-3">Vegetales</h5>
+                <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
+            </div>
+            <div class="col-12 col-md-4 p-5 mt-3">
+                <a href="#"><img src="Views/Landing/Dependencias/imagenes/hortalizas.jpg" class="img-fluid border"></a>
+                <h5 class="text-center mt-3 mb-3">Hortalizas</h5>
+                <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
+            </div>
         </div>
     </div>
+    <!--Fin categorias-->
+
+    <!--Inicio blog-->
     <div class="info">
         <article class="article">
             <section class="section">
@@ -69,6 +82,9 @@
                 <a href="#">ver más...</a>
             </section>
         </article>
+<!-- Fin blog-->
+
+<!--Inicio registro-->
 
         <aside class="aside">
             <h2>REGISTRO AGRICULTOR</h2>
@@ -85,3 +101,4 @@
         </aside>
     </div>
 </body>
+<!-- Fin registro-->
