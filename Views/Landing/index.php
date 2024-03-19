@@ -1,24 +1,24 @@
-<body style="background-image: url(Views/Landing/Dependencias/imagenes/background.jpeg)";>
+<body class="contenedor-fondo" style="background-image: url(Views/Landing/Dependencias/imagenes/fondo8.jpg);background-size: cover; background-repeat: no-repeat;";>
 <!-- inicio banner -->
 
     <div class=" col col-sm-10">
-        <div class=" ">
+        <div class=" plazas">
             <div id="carouselExampleAutoplaying" class=" carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner ">
                     <div class="carousel-item active">
-                        <img src="Views/Landing/Dependencias/imagenes/galeria/plaza6.jpg" height="500px" class=" d-block w-100" alt="...">
+                        <img src="Views/Landing/Dependencias/imagenes/galeria/plaza6.jpg" height="400px" class=" d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item" >
-                        <img src="Views/Landing/Dependencias/imagenes/galeria/plaza2.png" height="500px" class="d-block w-100" alt="...">
+                        <img src="Views/Landing/Dependencias/imagenes/galeria/plaza2.png" height="400px" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item" >
-                        <img src="Views/Landing/Dependencias/imagenes/galeria/plaza3.jpg" height="500px" class="d-block w-100" alt="...">
+                        <img src="Views/Landing/Dependencias/imagenes/galeria/agricultura.jpg" height="400px" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="Views/Landing/Dependencias/imagenes/galeria/plaza7.jpg" height="500px" class="d-block w-100" alt="...">
+                        <img src="Views/Landing/Dependencias/imagenes/galeria/plaza7.jpg" height="400px" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-item">
-                        <img src="Views/Landing/Dependencias/imagenes/galeria/plaza5.jpg" height="500px" class="d-block w-100" alt="...">
+                        <img src="Views/Landing/Dependencias/imagenes/galeria/variedad.jpg" height="400px" class="d-block w-100" alt="...">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
@@ -37,26 +37,28 @@
 
     <!-- Inicio categorias-->
     <div class="container5">
-        <div class="banner">
-            <div class="text">
-                <h3>CATEGORIAS</h3>
-                <h4>Trabajando con los CAMPESINOS</h4>
-            </div>
-            <div class="row">
-            <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="Views/Landing/Dependencias/imagenes/frutas.jpg" class="img-fluid border"></a>
-                <h5 class="text-center mt-3 mb-3">Frutas</h5>
-                <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
-            </div>
-            <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="Views/Landing/Dependencias/imagenes/vegetales.jpg" class=" img-fluid border"></a>
-                <h5 class="text-center mt-3 mb-3">Vegetales</h5>
-                <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
-            </div>
-            <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="Views/Landing/Dependencias/imagenes/hortalizas.jpg" class="img-fluid border"></a>
-                <h5 class="text-center mt-3 mb-3">Hortalizas</h5>
-                <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
+        <div class="bg-success p-5 text-dark bg-opacity-50">
+            <div class="banner">
+                <div class="text">
+                    <h3>CATEGORIAS</h3>
+                    <h4>Trabajando con los CAMPESINOS</h4>
+                </div>
+                <div class="Texbanner row">
+                <div class="col-12 col-md-4 p-5 mt-3">
+                    <a href="#"><img src="Views/Landing/Dependencias/imagenes/frutas.jpg" class="img-fluid border"></a>
+                    <h5 class="text-center mt-3 mb-3">Frutas</h5>
+                    <p class="text-center"><a class="btn btn-success">Seleccionar</a></p>
+                </div>
+                <div class="col-12 col-md-4 p-5 mt-3">
+                    <a href="#"><img src="Views/Landing/Dependencias/imagenes/vegetales.jpg" class=" img-fluid border"></a>
+                    <h5 class="text-center mt-3 mb-3">Vegetales</h5>
+                    <p class="text-center"><a class="btn btn-success">Seleccionar</a></p>
+                </div>
+                <div class="col-12 col-md-4 p-5 mt-3">
+                    <a href="#"><img src="Views/Landing/Dependencias/imagenes/hortalizas.jpg" class="img-fluid border"></a>
+                    <h5 class="text-center mt-3 mb-3">Hortalizas</h5>
+                    <p class="text-center"><a class="btn btn-success">Seleccionar</a></p>
+                </div>
             </div>
         </div>
     </div>

@@ -177,22 +177,22 @@
                         </div>    
                     </div>        
                 </div>
-<!--
+
                     
                     <div class="col-md-4">
                         <div class="card mb-4 product-wap rounded-0">
                             <div class="card rounded-0">
-                                <img class="card-img rounded-0 img-fluid" src="<?php echo $producto['imagen']?>">
+                                <img class="card-img rounded-0 img-fluid" src="?php echo $producto['imagen']?>">
                                 <div class="card-img-overlay rounded-0 product-overlay d-flex align-items-center justify-content-center">
                                     <ul class="list-unstyled">
-                                        <li><a class="btn btn-success text-white btnDeseo" href="#" prod="<?php echo $producto['id']?>"><i class="fas fa-heart"></i></a></li>
-                                        <li><a class="btn btn-success text-white mt-2" href="<?php echo BASE_URL .'principal/details/' . $producto['id']; ?>"><i class="fas fa-eye"></i></a></li>
+                                        <li><a class="btn btn-success text-white btnDeseo" href="#" prod="?php echo $producto['id']?>"><i class="fas fa-heart"></i></a></li>
+                                        <li><a class="btn btn-success text-white mt-2" href="?php echo BASE_URL .'principal/details/' . $producto['id']; ?>"><i class="fas fa-eye"></i></a></li>
                                         <li><a class="btn btn-success text-white mt-2" href="#"><i class="fas fa-cart-plus"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="card-body">
-                                <a href="shop-single.html" class="h3 text-decoration-none"><?php echo $producto['nombre']; ?></a>
+                                <a href="shop-single.html" class="h3 text-decoration-none">?php echo $producto['nombre']; ?></a>
                                 <ul class="w-100 list-unstyled d-flex justify-content-between mb-0">
                                     <li>M/L/X/XL</li>
                                     <li class="pt-2">
@@ -212,14 +212,14 @@
                                         <i class="text-muted fa fa-star"></i>
                                     </li>
                                 </ul>
-                                <p class="text-center mb-0"><?php echo MONEDA .' '. $producto['precio']; ?></p>
+                                <p class="text-center mb-0">?php echo MONEDA .' '. $producto['precio']; ?></p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div div="row">
                     <ul class="pagination pagination-lg justify-content-end">
-                        <?php
+                        ?php
                         $anterior = $data['pagina'] - 1;
                         $siguiente = $data['pagina'] + 1;
                         $url = BASE_URL . 'principal/shop/'; 
@@ -241,7 +241,7 @@
 
 </div>
 
-<!--
+
 <div class="row">
     <h1 class="tituloprincipal">Todos los productos</h1>
         <div class="pasarela">

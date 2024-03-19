@@ -14,14 +14,11 @@
     align-items: start;
     color: #fff;
 }
-.fondo{
-    background: url(Views/Landing/Dependencias/imagenes/background.jpeg);
-}
-
 .img-fluid{
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
+    
 }
 
 .container-footer{
@@ -267,21 +264,15 @@
 }
 
 .container5{
+    border-radius: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 100%;
-    background-color: darkseagreen;
+
+    margin: 15px;
 }
 
-
-
-.container5 .banner .imagen-banner img{
-    height: 135px;
-    width: auto;
-    margin: 25px 0px;
-    border-radius: 25px;
-}
 
 .container5 .banner .text h3{
     font-size: 3rem;
