@@ -50,7 +50,7 @@
     <link rel="stylesheet" href="../assets/dependencias/landing/Dependencias/css/campeche.css">
     <div class="container-fluid">
         <h1><img src="../assets/dependencias/landing/Dependencias/imagenes/logo campeche.jpg "></h1>
-        <a class="navbar-brand Titulo" href="">
+        <a class="navbar-brand Titulo" href="/somosCampeche">
         <p><strong>Campeche</strong></p>
                 </a>
 
@@ -61,17 +61,17 @@
         <div class=" collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="Texbanner navbar-nav">
             <li class="nav-item">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="/somosCampeche/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Somos Campeche
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="pedidos" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Pedidos
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="../assets/dependencias/landing/Modules/pasarela.php">Compras</a>
+                <a class="nav-link" href="/compras">Compras</a>
             </li>
             <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
