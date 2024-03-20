@@ -78,6 +78,7 @@
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 col-xl-2 col-xxl-1"></div>
   </div>
 </div><!-- fin modulo carrusel -->
+<br><br>
 <div class="container-fluid">
   <!-- inicio modulo medio categorias -->
   <div class="row">
@@ -119,16 +120,16 @@
     </div>
   </div>
 </div><!-- fin modulo medio categorias -->
-<br><br>
+<br><br><br>
 
 
-<div class="container-fluid">
-  <div class="row row-cols-1 d-flex justify-content-evenly align-items-start">
+<div class="container-fluid"><br><br>
+  <div class="row row-cols-1 d-flex justify-content-evenly d-flex align-items-center">
     <div class="col-12 col-sm-12 col-md-8 ">
-      <div class="row">
+      <div class="row"><br><br>
 
 
-        <div class="card mb-3" style="max-width: auto;">
+        <div class="card mb-3" style="max-width: auto;"><br>
           <div class="row g-0">
             <div class="col-md-4">
               <img src="../assets/dependencias/landing/dependencias/imagenes/webP/info1.webp" class="img-fluid rounded-5" alt="...">
@@ -141,7 +142,7 @@
                 <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
               </div>
             </div>
-          </div>
+          </div><br>
         </div>
 
 
@@ -150,7 +151,7 @@
       <div class="row">
 
 
-        <div class="card mb-3" style="max-width: auto;">
+        <div class="card mb-3" style="max-width: auto;"><br>
           <div class="row g-0">
             <div class="col-md-4">
               <img src="../assets/dependencias/landing/dependencias/imagenes/webP/info2.webp" class="img-fluid rounded-5" alt="...">
@@ -163,7 +164,7 @@
                 <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
               </div>
             </div>
-          </div>
+          </div><br>
         </div>
 
 
@@ -177,8 +178,29 @@
       <div class="card text-center mb-3 bg-success p-2 text-dark bg-opacity-50 text-white"><!-- inicio formulario -->
         <div class="card-body">
           <h5 class="card-title">REGISTRO AGRICULTOR</h5>
-          <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+          <p class="card-text"></p>
+          
+          <div class="row">
+            <div class="col">
+              <form action="" method="post">
+                <label for="">Nombres:</label>
+                <input type="text" class="form-control form-control-sm"> 
+                <label for="">Apellidos:</label>
+                <input type="text" class="form-control form-control-sm">
+                <label for="">Tipo de Identificación:</label>
+                <input type="text" class="form-control form-control-sm">
+                <label for="">N° de Identificación:</label>
+                <input type="text" class="form-control form-control-sm">
+                <label for="">Fecha de Nacimiento:</label>
+                <input type="text" class="form-control form-control-sm">
+                <label for="">N° de Telefono Celular</label>
+                <input type="text" class="form-control form-control-sm">
+                <label for="">Ubiacion Geografica</label>
+                <input type="text" class="form-control form-control-sm"><br>
+                <button type="submit" class="btn btn-success">Registrarme Como AGRICULTOR</button>
+              </form>
+            </div>
+          </div>
         </div>
       </div><!-- fin formulario -->
       
