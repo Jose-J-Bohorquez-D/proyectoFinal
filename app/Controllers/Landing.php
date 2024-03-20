@@ -6,10 +6,11 @@ class Landing extends BaseController
 {
     public function main(): string
     {
-        echo "<h1>main</h1>";
-        return view('landing/modulos/header')
-            .  view('landing/paginas/inicio')
-            .  view('landing/modulos/header');
+        $data = ['titulo'=>'Inicio - Campeche.com'];
+        return view('landing/modulos/header2',$data)
+            .  view('landing/modulos/nav2')
+            .  view('landing/paginas/index')
+            .  view('landing/modulos/footer2');
     }
 
     public function somosCampeche(): string
@@ -17,14 +18,14 @@ class Landing extends BaseController
         echo "<h1>somosCampeche</h1>";
         return view('landing/modulos/header')
             .  view('landing/paginas/somos')
-            .  view('landing/modulos/header');
+            .  view('landing/modulos/footer');
     }
     public function pedidos(): string
     {
         echo "<h1>pedidos</h1>";
         return view('landing/modulos/header')
             .  view('landing/paginas/pedidos')
-            .  view('landing/modulos/header');
+            .  view('landing/modulos/footer');
     }
 
     public function compras(): string

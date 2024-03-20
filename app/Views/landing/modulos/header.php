@@ -50,7 +50,7 @@
     <link rel="stylesheet" href="../assets/dependencias/landing/Dependencias/css/campeche.css">
     <div class="container-fluid">
         <h1><img src="../assets/dependencias/landing/Dependencias/imagenes/logo campeche.jpg "></h1>
-        <a class="navbar-brand Titulo" href="/somosCampeche">
+        <a class="navbar-brand Titulo" href="inicio">
         <p><strong>Campeche</strong></p>
                 </a>
 
@@ -61,7 +61,7 @@
         <div class=" collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="Texbanner navbar-nav">
             <li class="nav-item">
-                <a class="nav-link dropdown-toggle" href="/somosCampeche/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="somosCampeche" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Somos Campeche
                 </a>
             </li>
@@ -71,7 +71,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/compras">Compras</a>
+                <a class="nav-link" href="pedidos">Compras</a>
             </li>
             <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
