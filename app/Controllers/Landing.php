@@ -9,7 +9,7 @@ class Landing extends BaseController
         $data = ['titulo'=>'Inicio - Campeche.com'];
         return view('landing/modulos/header2',$data)
             .  view('landing/modulos/nav2')
-            .  view('landing/paginas/index')
+            .  view('landing/paginas/inicio2')
             .  view('landing/modulos/footer2');
     }
 
