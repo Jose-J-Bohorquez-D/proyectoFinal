@@ -1,9 +1,0 @@
-ssh-keygen -t ed25519 -C "bd567358546@gmail.com"
-clip < ~/.ssh/id_ed25519.pub
-
-git config --global user.name "Jose bohorquez"
-git config --global user.email "bd567358546@gmail.com"
-
-
-este link nos da ejemplos visuales de lo que nesesitamos para las implementaciones de nuevos modulos
-https://consultingmarketexperts.com/
