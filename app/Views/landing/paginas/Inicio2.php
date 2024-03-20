@@ -85,7 +85,7 @@
     <div class="col text-center"><br> <br>
       <h3>CATEGORIAS</h3><br>
       <h4>trabajando con los CAMPESINOS</h4><br><br>
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-5">
+      <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 g-5">
         <div class="col">
           <div class="card bg-transparent text-white">
             <img src="../assets/dependencias/landing/dependencias/imagenes/webP/frutas.webp" class="rounded-5"
@@ -124,47 +124,49 @@
 
 
 <div class="container-fluid"><br><br>
-  <div class="row row-cols-1 d-flex justify-content-evenly d-flex align-items-center">
+  <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 d-flex justify-content-evenly d-flex align-items-center">
     <div class="col-12 col-sm-12 col-md-8 ">
-      <div class="row"><br><br>
+      <div class="row" style="color: #8FBC8F;"><br><br>
 
 
-        <div class="card mb-3" style="max-width: auto;"><br>
+        <div class="card mb-3" style="max-width: auto;"><br><br>
           <div class="row g-0">
             <div class="col-md-4">
               <img src="../assets/dependencias/landing/dependencias/imagenes/webP/info1.webp" class="img-fluid rounded-5" alt="...">
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
-                  content. This content is a little bit longer.</p>
-                <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                <h5 class="card-title">Beneficios del Plátano</h5>
+                <p class="card-text">Los plátanos verdes son una extraordinaria opción para controlar los niveles de azúcar ya que contienen un menor porcentaje que los plátanos maduros..</p>
+                <p class="card-text"><small class="text-body-secondary">
+                  <button class="btn btn-success" style="background-color: #8FBC8F;">Ver mas...</button>
+                </small></p>
               </div>
             </div>
-          </div><br>
+          </div><br><br>
         </div>
 
 
 
-      </div>
+      </div><br><br>
       <div class="row">
 
 
-        <div class="card mb-3" style="max-width: auto;"><br>
+        <div class="card mb-3" style="max-width: auto;"><br><br>
           <div class="row g-0">
             <div class="col-md-4">
               <img src="../assets/dependencias/landing/dependencias/imagenes/webP/info2.webp" class="img-fluid rounded-5" alt="...">
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
-                  content. This content is a little bit longer.</p>
-                <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                <h5 class="card-title">Beneficios del Aguacate</h5>
+                <p class="card-text">Reduce los niveles de colesterol malo en sangre y aumenta el colesterol bueno..</p>
+                <p class="card-text"><small class="text-body-secondary">
+                  <button class="btn btn-success" style="background-color: #8FBC8F;">Ver mas...</button>
+                </small></p>
               </div>
             </div>
-          </div><br>
+          </div><br><br>
         </div>
 
 
@@ -175,29 +177,40 @@
 
 
       
-      <div class="card text-center mb-3 bg-success p-2 text-dark bg-opacity-50 text-white"><!-- inicio formulario -->
+      <div class="card bg-white text-center mb-3 p-2 text-dark"><!-- inicio formulario -->
         <div class="card-body">
-          <h5 class="card-title">REGISTRO AGRICULTOR</h5>
-          <p class="card-text"></p>
-          
-          <div class="row">
-            <div class="col">
+          <h5 class="card-title">REGISTRO AGRICULTOR</h5>   <br><br>       
+          <div class="row d-flex justify-content-center">
+            <div class="col-12 col-sm-12 col-md-12">
               <form action="" method="post">
                 <label for="">Nombres:</label>
-                <input type="text" class="form-control form-control-sm"> 
+                <input placeholder="ingrese nombres completos" required type="text" class="form-control rounded-5 form-control-sm" style="background-color: #8FBC8F;"> 
+                <br>
                 <label for="">Apellidos:</label>
-                <input type="text" class="form-control form-control-sm">
-                <label for="">Tipo de Identificación:</label>
-                <input type="text" class="form-control form-control-sm">
+                <input placeholder="ingrese apellidos completos" required type="text" class="form-control rounded-5 form-control-sm" style="background-color: #8FBC8F;">
+                <br><br>
+                <select required class="form-select form-control rounded-5" aria-label="Default select example" style="background-color: #8FBC8F;">
+                  <option value="" selected>¿Tipo de Documento?</option>
+                  <option value="1">Tarjeta de identidad</option>
+                  <option value="2">Cedula de ciudadania</option>
+                  <option value="3">Permiso de permanencia</option>                  
+                  <option value="3">Cedula de extranjeria</option>
+                </select>
+                <br>
                 <label for="">N° de Identificación:</label>
-                <input type="text" class="form-control form-control-sm">
+                <input placeholder="ingrese # de identificacion" required type="number" class="form-control rounded-5 form-control-sm" style="background-color: #8FBC8F;">
+                <br>
                 <label for="">Fecha de Nacimiento:</label>
-                <input type="text" class="form-control form-control-sm">
+                <input placeholder="ingrese" required type="date" value="1998-04-17" class="form-control rounded-5 form-control-sm" style="background-color: #8FBC8F;">
+                <br>
                 <label for="">N° de Telefono Celular</label>
-                <input type="text" class="form-control form-control-sm">
+                <input placeholder="ingrese # de telefono " required type="number" class="form-control rounded-5 form-control-sm" style="background-color: #8FBC8F;">
+                <br>
                 <label for="">Ubiacion Geografica</label>
-                <input type="text" class="form-control form-control-sm"><br>
-                <button type="submit" class="btn btn-success">Registrarme Como AGRICULTOR</button>
+                <input placeholder="ingrese vereda/corregimiento/pueblo/ciudad" required type="text" class="form-control rounded-5 form-control-sm" style="background-color: #8FBC8F;">
+                <br>
+                <br>
+                <button type="submit" class="btn btn-success fs-5" style="background-color: #8FBC8F; color:black;">Registrarme Como AGRICULTOR</button>
               </form>
             </div>
           </div>
