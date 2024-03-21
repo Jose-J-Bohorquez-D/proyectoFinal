@@ -1,8 +1,11 @@
+<?php echo $this->extend('landing/plantilla'); ?>
+
 <div class="container-sm" style="opacity: 0.9; ">
   <!-- inicio carrusel -->
   <div class="row d-flex justify-content-center">
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 col-xl-2 col-xxl-1"></div>
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 col-xxl-10">
+      <?php echo $this->section('xxxc'); ?>
       <div id="carouselExampleIndicators" class="carousel slide">
         <div class="carousel-indicators">
           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
@@ -74,6 +77,7 @@
           <span class="visually-hidden">Next</span>
         </button>
       </div>
+      <?php echo $this->endSection(); ?>
     </div>
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-2 col-xl-2 col-xxl-1"></div>
   </div>

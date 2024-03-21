@@ -11,19 +11,19 @@
     <div class="collapse navbar-collapse m-0 border-0 p-0" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link fs-5 active" aria-current="page" href="#">Inicio</a>
+          <a class="nav-link fs-5 active" aria-current="page" href="inicio">Inicio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link fs-5" aria-current="page" href="#">Nosotros</a>
+          <a class="nav-link fs-5" aria-current="page" href="nosotros">Nosotros</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link fs-5" href="#">Pedidos</a>
+          <a class="nav-link fs-5" href="pedidos">Pedidos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link fs-5" href="#">Compras</a>
+          <a class="nav-link fs-5" href="compras">Compras</a>
         </li>        
         <li class="nav-item">
-          <a class="nav-link fs-5" href="#">Contacto</a>
+          <a class="nav-link fs-5" href="contacto">Contacto</a>
         </li>
       </ul>
       <ul class="navbar-nav m-0 border-0 p-0">
@@ -32,9 +32,9 @@
             Mi Perfil
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Ver Perfil</a></li>
+            <li><a class="dropdown-item" href="miperfil">Ver Perfil</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Salir</a></li>
+            <li><a class="dropdown-item" href="salir">Salir</a></li>
           </ul>
         </li>
 

@@ -1,3 +1,10 @@
+<div class="row">
+    <div class="col">
+        <h1 class="text-center">Pagina de (compras)</h1>
+    </div>
+</div>
+
+
 <!DOCTYPE html>
 <html lang="es">
     <head>

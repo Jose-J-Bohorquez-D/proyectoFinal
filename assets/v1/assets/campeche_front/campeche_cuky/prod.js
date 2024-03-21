@@ -2,7 +2,7 @@ const pasarela =[
     {
         id: "Ajo-imp",
         titulo: "ajo importado",
-        Imagen: "imagenes/ajos.jpeg",
+        Imagen: "../../../../dependencias/landing/dependencias/imagenes/ajos.jpeg",
         categoria: {
             nombre:hortalizas,
             id: hortalizas
@@ -12,7 +12,7 @@ const pasarela =[
     {
         id: "Platano-Verde",
         titulo: "Platano verde",
-        Imagen: "imagenes/platano verde.jpg",
+        Imagen: "../../../../dependencias/landing/dependencias/imagenes/platanoVerde.jpg",
         categoria: {
             nombre:hortalizas,
             id: hortalizas
@@ -22,7 +22,7 @@ const pasarela =[
     {
         id: "Mora",
         titulo: "Mora",
-        Imagen: "imagenes/platano verde.jpg",
+        Imagen: "../../../../dependencias/landing/dependencias/imagenes/platanoVerde.jpg",
         categoria: {
             nombre:hortalizas,
             id: hortalizas

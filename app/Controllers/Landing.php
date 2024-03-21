@@ -6,42 +6,58 @@ class Landing extends BaseController
 {
     public function main(): string
     {
-        $data = ['titulo'=>'Inicio - Campeche.com'];
+        $data = ['titulo'=>'Campeche.com - Inicio'];
+        return view('landing/plantilla',$data);
+        /*
         return view('landing/modulos/header2',$data)
             .  view('landing/modulos/nav2')
             .  view('landing/paginas/inicio2')
             .  view('landing/modulos/footer2');
+        */
     }
 
-    public function somosCampeche(): string
+    public function nosotros(): string
     {
-        echo "<h1>somosCampeche</h1>";
-        return view('landing/modulos/header')
-            .  view('landing/paginas/somos')
-            .  view('landing/modulos/footer');
+        $data = ['titulo'=>'Campeche.com - Nosotros'];
+        return view('landing/modulos/header2',$data)
+            .  view('landing/modulos/nav2')
+            .  view('landing/paginas/nosotros')
+            .  view('landing/modulos/footer2');
     }
     public function pedidos(): string
     {
-        echo "<h1>pedidos</h1>";
-        return view('landing/modulos/header')
+        $data = ['titulo'=>'Campeche.com - Pedidos'];
+        return view('landing/modulos/header2',$data)
+            .  view('landing/modulos/nav2')
             .  view('landing/paginas/pedidos')
-            .  view('landing/modulos/footer');
+            .  view('landing/modulos/footer2');
     }
 
     public function compras(): string
     {
-        echo "<h1>compras</h1>";
-        return view('landing/modulos/header')
+        $data = ['titulo'=>'Campeche.com - Compras'];
+        return view('landing/modulos/header2',$data)
+            .  view('landing/modulos/nav2')
             .  view('landing/paginas/compras')
-            .  view('landing/modulos/header');
+            .  view('landing/modulos/header2');
+    }
+
+    public function contacto(): string
+    {
+        $data = ['titulo'=>'Campeche.com - Contacto'];
+        return view('landing/modulos/header2',$data)
+            .  view('landing/modulos/nav2')
+            .  view('landing/paginas/contacto')
+            .  view('landing/modulos/footer2');
     }
 
     public function miPerfil(): string
     {
-        echo "<h1>mi perfil</h1>";
-        return view('landing/modulos/header')
-            .  view('landing/paginas/mi_perfil')
-            .  view('landing/modulos/header');
+        $data = ['titulo'=>'Campeche.com - Mi Perfil'];
+        return view('landing/modulos/header2',$data)
+            .  view('landing/modulos/nav2')
+            .  view('landing/paginas/miperfil')
+            .  view('landing/modulos/footer2');
     }
 
 }
