@@ -19,6 +19,9 @@ trim 5 :
 	* es nesesario tener composer instalado, (debe apuntar al php del servidor local), luego
  	  ingresamos al proyecto desde el vscode, abrimos un terminal en el proyecto, y ejecutar el comando
     	  (composer install) y (composer update)
+
+       * luego testear, si aun no funciona revisar config\app\app.php (#public string $baseURL = '')
+         y poner el url base que se toma del navegador ingresando por localhost/proyecto/public
     
 	* clonar y correr con spark, desde la terminal y ubicados en el root se abre un terminal
    	 y se ejecuta (php spark serve)(aclaro que debe estar php instalado y ajustado en el path)
