@@ -15,6 +15,10 @@ trim 5 :
  instalacion:
 
   	* clonar y correr desde el document root de su servidor Local (xampp, laragon o wamp)
+
+	* es nesesario tener composer instalado, (debe apuntar al php del servidor local), luego
+ 	  ingresamos al proyecto desde el vscode, abrimos un terminal en el proyecto, y ejecutar el comando
+    	  (composer install) y (composer update)
     
 	* clonar y correr con spark, desde la terminal y ubicados en el root se abre un terminal
    	 y se ejecuta (php spark serve)(aclaro que debe estar php instalado y ajustado en el path)
@@ -22,7 +26,7 @@ trim 5 :
 errores de instalacion con (php spark)
 
 	* se deberia tener instalado composer o ingresar el comando en la terminal 
- 	  (composer update)(composer install)(php spark serve) y ya deberia funcionar
+ 	  (composer install )(composer update)(php spark serve) y ya deberia funcionar
     	  puede que de errores en las rutas debido a que es un servidor de testeo rapido
     
 
